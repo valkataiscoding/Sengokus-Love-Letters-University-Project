@@ -1,0 +1,34 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	3991942870	Music			\Default Work Unit\Village\Music	
+	4294388576	Generic			\Default Work Unit\Village\Generic	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Music			
+	3882471229	Act2Part1	Music			
+	3882471230	Act2Part2	Music			
+	4100993177	Act3Part2	Music			
+	4100993178	Act3Part1	Music			
+	89505537	Gameplay	Generic			
+	748895195	None	Generic			
+	3765803840	Cutscenes	Generic			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	89505537	Gameplay			\Default Work Unit\Master Audio Bus\Music\Gameplay	
+	623086306	Sound			\Default Work Unit\Master Audio Bus\Sound	
+	625916166	Intro Cutscenes			\Default Work Unit\Master Audio Bus\Music\Intro Cutscenes	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Master Audio Bus\Sound\Ambience	
+	393239870	SFX			\Default Work Unit\Master Audio Bus\Sound\SFX	
+	1534528548	VO			\Default Work Unit\Master Audio Bus\Sound\VO	
+	1551306167	UI			\Default Work Unit\Master Audio Bus\Sound\UI	
+
+Effect plug-ins	ID	Name	Type				Notes
+	3796564934	Hard_Knee_Minus_3dB_RMS	Wwise Compressor			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

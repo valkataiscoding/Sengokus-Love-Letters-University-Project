@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a8b100884bee48e2a0b61e4e3a3c274, type: 3}
+  m_Name: 4B7C2796-A2FC-4568-8F69-75CEBB63C0B1
+  m_EditorClassIdentifier: 
+  objectName: Act2Part1
+  id: 3882471229
+  guid: 4B7C2796-A2FC-4568-8F69-75CEBB63C0B1
+  WwiseStateGroupReference: {fileID: 11400000, guid: ac053c2c9d9a6416aaa5d241274e83e1, type: 2}

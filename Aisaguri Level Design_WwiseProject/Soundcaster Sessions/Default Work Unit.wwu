@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9FB71ACE-A6E2-4ECA-B59C-6E646D4C95D6}" SchemaVersion="103">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{9FB71ACE-A6E2-4ECA-B59C-6E646D4C95D6}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Act1&amp;Act5" ID="{9E8D82EC-C472-4D08-8243-DA654BD7CEBC}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="amb_day" ID="{0473DF43-9CA0-4947-A021-C4CC1E392E28}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_children_01" ID="{5BCF3631-0159-4720-AE8D-320EF947A6D6}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Act1" ID="{7D8CCA8D-5E7F-4525-BB94-94ED54DEE603}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_day_marketplace" ID="{66516A3F-BB6C-4880-934F-B83FD7BEEE0D}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_children_02" ID="{93689429-F7BD-4212-8895-87A3C7A34A83}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Act5" ID="{55D8B22B-AB60-40CE-8FE0-CFBE5787D920}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="1" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_ricefield" ID="{731356E5-0E81-47EE-B2BE-18A2F6B482E6}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_river" ID="{623BE8DB-7EB8-4D0C-BDEE-06544683EE42}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_temple_bell" ID="{5EFABBA4-815D-4E3E-986B-2D696FE80321}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Footstep" ID="{EF342281-2C57-464C-B26B-1CA9A12507E6}" WorkUnitID="{02325C7E-3241-4D8A-8EAD-7B34443BAD8A}"/>
+							<Position X="3" Y="1"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{FAD001DA-2D00-47EE-AA44-25CD377FA88E}"/>
+						<CurrentStateRef Name="None" ID="{291ECD8D-F656-416B-BBD2-924A8A2780B7}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+				<SoundcasterSession Name="Act2" ID="{C9D0D4AB-1565-47BA-9380-9CB89EF3A831}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="amb_children_01" ID="{5BCF3631-0159-4720-AE8D-320EF947A6D6}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_kabuki" ID="{3EA0E3C2-BB56-44CF-8CE4-8EBFAFC04032}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_temple_bell" ID="{5EFABBA4-815D-4E3E-986B-2D696FE80321}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Footstep" ID="{EF342281-2C57-464C-B26B-1CA9A12507E6}" WorkUnitID="{02325C7E-3241-4D8A-8EAD-7B34443BAD8A}"/>
+							<Position X="0" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_children_02" ID="{93689429-F7BD-4212-8895-87A3C7A34A83}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_restaurant" ID="{B4992B94-60E7-4F90-9003-2C3435E70B21}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="DojoChildrenVO" ID="{028C402E-9D8B-4BF1-84B3-79FE30ACF0A8}" WorkUnitID="{91667897-E1C2-42B8-89CE-E0F501745AD7}"/>
+							<Position X="1" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_entertainment" ID="{13BE2170-697F-4F44-AA62-8FB06DB9F3E3}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="1" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_day_marketplace" ID="{66516A3F-BB6C-4880-934F-B83FD7BEEE0D}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_ricefield_winter" ID="{06B77C9B-019F-495D-935D-2FEFB4F173C8}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="DojoHit" ID="{A8304AE6-315D-4669-AEBB-2D373380FA1B}" WorkUnitID="{75838C5C-E276-4FA6-8CF8-37B21158B0AA}"/>
+							<Position X="2" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_dojo" ID="{10460491-DF59-4EAA-80BB-DE46F0A3A5B4}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="2" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_day_winter" ID="{1C7C1286-39E5-44AC-BC11-4C0A1D21ABCE}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_river" ID="{623BE8DB-7EB8-4D0C-BDEE-06544683EE42}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="3" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="DojoPunch" ID="{8C6A2726-D5BE-44ED-9091-3FD221F427F6}" WorkUnitID="{75838C5C-E276-4FA6-8CF8-37B21158B0AA}"/>
+							<Position X="3" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Music" ID="{4893EED4-C7AB-411A-AC0E-4F423F5E6E11}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="3" Y="3"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{FAD001DA-2D00-47EE-AA44-25CD377FA88E}"/>
+						<CurrentStateRef Name="Act2Part2" ID="{BA4AEF18-E0BA-40F7-8274-1D3AA58F3554}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+				<SoundcasterSession Name="Act3" ID="{1501285B-8EB6-4C75-9A20-4E812B90C1B1}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="amb_baby_crying" ID="{AD0981CF-6D6E-43C4-BCF8-57B5B73873CC}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_fire" ID="{1CD47144-B127-4C8A-8079-F9090EFF1BDF}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_women_screaming_02" ID="{11B841F4-2DBD-49DE-AF49-8C5A390F9729}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Footstep" ID="{EF342281-2C57-464C-B26B-1CA9A12507E6}" WorkUnitID="{02325C7E-3241-4D8A-8EAD-7B34443BAD8A}"/>
+							<Position X="0" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_river" ID="{623BE8DB-7EB8-4D0C-BDEE-06544683EE42}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="0" Y="4"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_bandit_chasing" ID="{08F2BD6D-2F10-4F1D-A720-607BE7A5290D}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_night" ID="{97965741-2978-4104-B697-073FC61A0B59}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="BanditAttack" ID="{DB08DCEF-9C43-4701-979C-B4464F07BFBD}" WorkUnitID="{75838C5C-E276-4FA6-8CF8-37B21158B0AA}"/>
+							<Position X="1" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="RikaPanting" ID="{35A76781-EE62-4882-923B-07C3569C6571}" WorkUnitID="{91667897-E1C2-42B8-89CE-E0F501745AD7}"/>
+							<Position X="1" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Music" ID="{4893EED4-C7AB-411A-AC0E-4F423F5E6E11}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="1" Y="4"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_crowd_screaming" ID="{353F7EBA-6DDF-4439-9C97-FA09A8B5CFC1}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_night_marketplace" ID="{F34A4688-8752-4A69-967C-3B7304B14231}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="BanditAttackVO" ID="{9AC3E31F-6BD1-4E85-88F5-E76E4C55C249}" WorkUnitID="{91667897-E1C2-42B8-89CE-E0F501745AD7}"/>
+							<Position X="2" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="VillagerDyingVO" ID="{292F3B3D-D18C-4B13-9EC0-883961455F05}" WorkUnitID="{91667897-E1C2-42B8-89CE-E0F501745AD7}"/>
+							<Position X="2" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_entertainment" ID="{13BE2170-697F-4F44-AA62-8FB06DB9F3E3}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_women_screaming_01" ID="{BB41273C-9784-4AE0-B862-83BC9369B267}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="3" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="BanditDyingVO" ID="{7112E126-BD75-49B8-8B4E-879E44C2FB7E}" WorkUnitID="{91667897-E1C2-42B8-89CE-E0F501745AD7}"/>
+							<Position X="3" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_temple_bell" ID="{5EFABBA4-815D-4E3E-986B-2D696FE80321}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="3" Y="3"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{FAD001DA-2D00-47EE-AA44-25CD377FA88E}"/>
+						<CurrentStateRef Name="Act3Part2" ID="{413FF0C9-6660-4A27-A78B-2989F5C57C27}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+				<SoundcasterSession Name="Act4" ID="{0F8732B1-15C0-4FD7-9F1A-F1922C147E40}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="amb_day_battlefield_02" ID="{ED0C8A1D-42F9-4A5F-8F5A-56EC9D65DFE5}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="ArrowHit" ID="{7DA1DFAE-913F-4F86-A2AD-A095A9911BA4}" WorkUnitID="{75838C5C-E276-4FA6-8CF8-37B21158B0AA}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="HorseFootstep" ID="{ECB564C1-CA93-47D1-AB01-91CD661344FB}" WorkUnitID="{75838C5C-E276-4FA6-8CF8-37B21158B0AA}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_day_battlefiled_01" ID="{1CD1DA79-8BEB-4342-B27F-C6EDC5BECA14}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="BanditDyingVO" ID="{7112E126-BD75-49B8-8B4E-879E44C2FB7E}" WorkUnitID="{91667897-E1C2-42B8-89CE-E0F501745AD7}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Act4" ID="{F3D431AE-3239-43E4-A53F-1B98DB93D3BD}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="1" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_horse" ID="{6654EBA1-33F8-40C2-986A-4FC8FD104F53}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="BowRelease" ID="{D56A441A-4C2A-4D5F-A9A7-86796DE8D84A}" WorkUnitID="{75838C5C-E276-4FA6-8CF8-37B21158B0AA}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="amb_river" ID="{623BE8DB-7EB8-4D0C-BDEE-06544683EE42}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Horse_VO" ID="{7434A10B-5BD6-4EF1-AB84-B7E3635FD17C}" WorkUnitID="{91667897-E1C2-42B8-89CE-E0F501745AD7}"/>
+							<Position X="3" Y="1"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{FAD001DA-2D00-47EE-AA44-25CD377FA88E}"/>
+						<CurrentStateRef Name="Act3Part2" ID="{413FF0C9-6660-4A27-A78B-2989F5C57C27}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+				<SoundcasterSession Name="MainMenu" ID="{3E4D2F63-E2B7-4B9F-8B65-DC6489A5C25C}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Quit" ID="{4A405AD0-585A-441B-8648-65C38A27C838}" WorkUnitID="{3CF262A3-FEDB-41AB-87AD-9CDBBDE189D2}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Start" ID="{11D22623-7220-43CA-B478-E87A98DFE60E}" WorkUnitID="{3CF262A3-FEDB-41AB-87AD-9CDBBDE189D2}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Act5" ID="{55D8B22B-AB60-40CE-8FE0-CFBE5787D920}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{FAD001DA-2D00-47EE-AA44-25CD377FA88E}"/>
+						<CurrentStateRef Name="None" ID="{291ECD8D-F656-416B-BBD2-924A8A2780B7}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+				<SoundcasterSession Name="Music" ID="{D7D0D7C3-B947-4290-B076-28C0FDF161D2}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Music" ID="{4893EED4-C7AB-411A-AC0E-4F423F5E6E11}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Act1" ID="{7D8CCA8D-5E7F-4525-BB94-94ED54DEE603}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Act4" ID="{F3D431AE-3239-43E4-A53F-1B98DB93D3BD}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Act5" ID="{55D8B22B-AB60-40CE-8FE0-CFBE5787D920}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{FAD001DA-2D00-47EE-AA44-25CD377FA88E}"/>
+						<CurrentStateRef Name="Act3Part2" ID="{413FF0C9-6660-4A27-A78B-2989F5C57C27}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+				<SoundcasterSession Name="IntroCutscenes" ID="{BF695D9F-8C48-4139-8181-3406C1136A01}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Letter1" ID="{63BBD122-1F18-41BD-B5A8-5948581B8274}" WorkUnitID="{91667897-E1C2-42B8-89CE-E0F501745AD7}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Letter5" ID="{C0112351-5EC3-4DAF-A53B-718BA9AEB7D0}" WorkUnitID="{91667897-E1C2-42B8-89CE-E0F501745AD7}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Intro4" ID="{C3281587-9DC8-4E33-A73D-96FF06E403F1}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Letter2" ID="{BD9BEF21-4BF9-4798-A547-0AFA715C21A1}" WorkUnitID="{91667897-E1C2-42B8-89CE-E0F501745AD7}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Intro1" ID="{D69038DE-528D-4683-B80A-E2204C35B05D}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Intro5" ID="{246FB0D7-DB2E-4B9B-9E4A-43569A6A79F1}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="1" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Letter3" ID="{B5C25034-55D7-4A67-8C5F-30A9B8B6B2B0}" WorkUnitID="{91667897-E1C2-42B8-89CE-E0F501745AD7}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Intro2" ID="{BB7E4A86-CC28-46B9-911E-7D3B176CDEE8}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Letter4" ID="{F24DD26D-8529-4D09-89F8-3380DCE38EFD}" WorkUnitID="{91667897-E1C2-42B8-89CE-E0F501745AD7}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Intro3" ID="{D82CD27C-008F-46C8-881F-E30485EA5521}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}"/>
+							<Position X="3" Y="1"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{FAD001DA-2D00-47EE-AA44-25CD377FA88E}"/>
+						<CurrentStateRef Name="None" ID="{291ECD8D-F656-416B-BBD2-924A8A2780B7}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

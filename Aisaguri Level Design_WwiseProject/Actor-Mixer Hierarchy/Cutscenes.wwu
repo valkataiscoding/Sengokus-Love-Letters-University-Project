@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EC1B09BD-7204-4B55-8AAC-08814DC4B558}" SchemaVersion="103" RootDocumentID="{95ED9D5A-9D48-42E4-BFA1-0B9CB5CF209C}" ParentDocumentID="{95ED9D5A-9D48-42E4-BFA1-0B9CB5CF209C}">
+	<AudioObjects>
+		<WorkUnit Name="Cutscenes" ID="{EC1B09BD-7204-4B55-8AAC-08814DC4B558}" OwnerID="{95ED9D5A-9D48-42E4-BFA1-0B9CB5CF209C}" PersistMode="Nested">
+			<PropertyList>
+				<Property Name="Color" Type="int16" Value="12"/>
+				<Property Name="OverrideColor" Type="bool" Value="True"/>
+			</PropertyList>
+			<ChildrenList>
+				<ActorMixer Name="Japanese Voice Over" ID="{7B5EA037-72FE-4DE2-8F5F-66E7ADEE0752}" ShortID="10090489">
+					<PropertyList>
+						<Property Name="OverrideConversion" Type="bool" Value="True"/>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-13</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="VO" ID="{C69668F3-B6D7-45FE-A049-358754D25A29}" WorkUnitID="{ADC4C571-A7F1-4B82-8BA7-74379283C7FF}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Sound" ID="{F78DD5C5-41B1-438B-BAD4-2E454D300002}" WorkUnitID="{A234EEEF-7199-4354-9439-501812104805}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="sll_vo_letter_01" ID="{6A360B4C-508C-4881-879E-9C8F6BE0415C}" ShortID="558686325">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{ADC4C571-A7F1-4B82-8BA7-74379283C7FF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{A234EEEF-7199-4354-9439-501812104805}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="sll_vo_letter_01" ID="{EA562176-DFE5-4141-A52B-65968FF55FD3}">
+									<Language>SFX</Language>
+									<AudioFile>sll_vo_letter_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="742581987"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="sll_vo_letter_01" ID="{EA562176-DFE5-4141-A52B-65968FF55FD3}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="sll_vo_letter_03" ID="{45E3EA32-6329-4DAF-917D-9C5124ADE3D6}" ShortID="720464338">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{ADC4C571-A7F1-4B82-8BA7-74379283C7FF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{A234EEEF-7199-4354-9439-501812104805}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="sll_vo_letter_03" ID="{AC650B0D-E4DC-42A3-943F-CC16C7B274E3}">
+									<Language>SFX</Language>
+									<AudioFile>sll_vo_letter_03.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="517920300"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="sll_vo_letter_03" ID="{AC650B0D-E4DC-42A3-943F-CC16C7B274E3}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="sll_vo_letter_04" ID="{93A8635E-BBDB-4A2F-B5C8-7F5848E9BBE6}" ShortID="972255673">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{ADC4C571-A7F1-4B82-8BA7-74379283C7FF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{A234EEEF-7199-4354-9439-501812104805}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="sll_vo_letter_04" ID="{6FF667B1-DDEE-4BB6-8297-E551256C09F8}">
+									<Language>SFX</Language>
+									<AudioFile>sll_vo_letter_04.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="385452051"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="sll_vo_letter_04" ID="{6FF667B1-DDEE-4BB6-8297-E551256C09F8}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="sll_vo_letter_05" ID="{FF740CAC-4A78-4B95-8275-F29D03B5D426}" ShortID="727222530">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{ADC4C571-A7F1-4B82-8BA7-74379283C7FF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{A234EEEF-7199-4354-9439-501812104805}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="sll_vo_letter_05" ID="{51A0B852-FFE4-4664-81D1-11F0B7F1D4BA}">
+									<Language>SFX</Language>
+									<AudioFile>sll_vo_letter_05.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="952127044"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="sll_vo_letter_05" ID="{51A0B852-FFE4-4664-81D1-11F0B7F1D4BA}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="sll_vo_letter_02" ID="{05B230F6-F4ED-4EE5-905D-D44D3DEA38CF}" ShortID="41793814">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{ADC4C571-A7F1-4B82-8BA7-74379283C7FF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{A234EEEF-7199-4354-9439-501812104805}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="sll_vo_letter_02" ID="{96F0F66F-9B72-43F0-BEB4-254B3507B7FC}">
+									<Language>SFX</Language>
+									<AudioFile>sll_vo_letter_02.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="848313643"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="sll_vo_letter_02" ID="{96F0F66F-9B72-43F0-BEB4-254B3507B7FC}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<ObjectLists/>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

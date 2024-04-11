@@ -1,0 +1,270 @@
+Event	ID	Name			Wwise Object Path	Notes
+	29906311	RikaPanting			\Default Work Unit\VO\RikaPanting	
+	45729008	amb_river			\Default Work Unit\Ambience\amb_river	
+	93046195	amb_temple_bell			\Default Work Unit\Ambience\amb_temple_bell	
+	108724846	Horse_VO			\Default Work Unit\VO\Horse_VO	
+	433598255	amb_restaurant			\Default Work Unit\Ambience\amb_restaurant	
+	450111780	amb_children_02			\Default Work Unit\Ambience\amb_children_02	
+	450111783	amb_children_01			\Default Work Unit\Ambience\amb_children_01	
+	521639175	VillagerDyingVO			\Default Work Unit\VO\VillagerDyingVO	
+	646456091	DojoChildrenVO			\Default Work Unit\VO\DojoChildrenVO	
+	818003163	BanditDyingVO			\Default Work Unit\VO\BanditDyingVO	
+	820087945	Bandit_Warning_Enter			\Default Work Unit\Generic\Bandit_Warning_Enter	
+	980241130	amb_bandit_chasing			\Default Work Unit\Ambience\amb_bandit_chasing	
+	1061019936	amb_day_winter			\Default Work Unit\Ambience\amb_day_winter	
+	1281810935	Start			\Default Work Unit\UI\Start	
+	1283954104	amb_night_marketplace			\Default Work Unit\Ambience\amb_night_marketplace	
+	1303726608	Stop_children_amb			\Default Work Unit\Generic\Stop_children_amb	
+	1353729445	amb_women_screaming_02			\Default Work Unit\Ambience\amb_women_screaming_02	
+	1353729446	amb_women_screaming_01			\Default Work Unit\Ambience\amb_women_screaming_01	
+	1497337916	amb_day_marketplace			\Default Work Unit\Ambience\amb_day_marketplace	
+	1529681637	Bandit_Warning_Exit			\Default Work Unit\Generic\Bandit_Warning_Exit	
+	1676744199	Stop_Kabuki			\Default Work Unit\Generic\Stop_Kabuki	
+	1683734888	Letter3			\Default Work Unit\VO\Letter3	
+	1683734889	Letter2			\Default Work Unit\VO\Letter2	
+	1683734890	Letter1			\Default Work Unit\VO\Letter1	
+	1683734894	Letter5			\Default Work Unit\VO\Letter5	
+	1683734895	Letter4			\Default Work Unit\VO\Letter4	
+	1708742407	amb_ricefield			\Default Work Unit\Ambience\amb_ricefield	
+	1866025847	Footstep			\Default Work Unit\Generic\Footstep	
+	1936873938	HorseFootstep			\Default Work Unit\SFX\HorseFootstep	
+	1945892969	DojoPunch			\Default Work Unit\SFX\DojoPunch	
+	2047892422	DojoHit			\Default Work Unit\SFX\DojoHit	
+	2125145056	amb_night			\Default Work Unit\Ambience\amb_night	
+	2136009208	amb_day_battlefield_02			\Default Work Unit\Ambience\amb_day_battlefield_02	
+	2212241627	ArrowHit			\Default Work Unit\SFX\ArrowHit	
+	2640186085	amb_baby_crying			\Default Work Unit\Ambience\amb_baby_crying	
+	2687073255	BanditAttack			\Default Work Unit\SFX\BanditAttack	
+	2690533778	BowRelease			\Default Work Unit\SFX\BowRelease	
+	2813190856	amb_entertainment			\Default Work Unit\Ambience\amb_entertainment	
+	2904546416	Stop_Event			\Default Work Unit\Generic\Stop_Event	
+	2947845793	amb_horse			\Default Work Unit\Ambience\amb_horse	
+	2957742932	amb_dojo			\Default Work Unit\Ambience\amb_dojo	
+	3063912617	amb_crowd_screaming			\Default Work Unit\Ambience\amb_crowd_screaming	
+	3207324726	amb_fire			\Default Work Unit\Ambience\amb_fire	
+	3227181061	Music_Stop			\Default Work Unit\Music\Music_Stop	
+	3293087160	Intro3			\Default Work Unit\Music\Intro3	
+	3293087161	Intro2			\Default Work Unit\Music\Intro2	
+	3293087162	Intro1			\Default Work Unit\Music\Intro1	
+	3293087166	Intro5			\Default Work Unit\Music\Intro5	
+	3293087167	Intro4			\Default Work Unit\Music\Intro4	
+	3453085348	amb_day			\Default Work Unit\Ambience\amb_day	
+	3504395752	Act5			\Default Work Unit\Music\Act5	
+	3504395753	Act4			\Default Work Unit\Music\Act4	
+	3504395756	Act1			\Default Work Unit\Music\Act1	
+	3669194765	amb_day_battlefiled_01			\Default Work Unit\Ambience\amb_day_battlefiled_01	
+	3830391261	amb_kabuki			\Default Work Unit\Ambience\amb_kabuki	
+	3856543814	BanditAttackVO			\Default Work Unit\VO\BanditAttackVO	
+	3930794392	Quit			\Default Work Unit\UI\Quit	
+	3935009713	amb_ricefield_winter			\Default Work Unit\Ambience\amb_ricefield_winter	
+	3991942870	Music			\Default Work Unit\Music\Music	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3991942870	Music			\Default Work Unit\Village\Music	
+	4294388576	Generic			\Default Work Unit\Village\Generic	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Music			
+	3882471229	Act2Part1	Music			
+	3882471230	Act2Part2	Music			
+	4100993177	Act3Part2	Music			
+	4100993178	Act3Part1	Music			
+	89505537	Gameplay	Generic			
+	748895195	None	Generic			
+	3765803840	Cutscenes	Generic			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	718812011	Cutscenes	Generic	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village		
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	89505537	Gameplay			\Default Work Unit\Master Audio Bus\Music\Gameplay	
+	623086306	Sound			\Default Work Unit\Master Audio Bus\Sound	
+	625916166	Intro Cutscenes			\Default Work Unit\Master Audio Bus\Music\Intro Cutscenes	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Master Audio Bus\Sound\Ambience	
+	393239870	SFX			\Default Work Unit\Master Audio Bus\Sound\SFX	
+	1534528548	VO			\Default Work Unit\Master Audio Bus\Sound\VO	
+	1551306167	UI			\Default Work Unit\Master Audio Bus\Sound\UI	
+
+Effect plug-ins	ID	Name	Type				Notes
+	890980706	Wwise Matrix Reverb (Custom)	Wwise Matrix Reverb			
+	1706684651	Plate_Medium	Wwise RoomVerb			
+	3451596814	Hall_Medium	Wwise RoomVerb			
+	3796564934	Hard_Knee_Minus_3dB_RMS	Wwise Compressor			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	10862313	sll_vo_horse_neigh_06	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_horse_neigh_06_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Horse VO\sll_vo_horse_neigh_06		23858
+	11892972	bgm_act4_partA3_bpm110_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act4_partA3_bpm110_4-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act4\bgm_act4_partA3_bpm110_4-4_PM1\bgm_act4_partA3_bpm110_4-4_PM1		658254
+	15328541	sll_vo_panting_10	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_panting_10_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Rika VO\sll_vo_panting_10		13602
+	21880675	sll_sfx_dojo_hit_04	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_dojo_hit_04_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Dojo Hit\sll_sfx_dojo_hit_04		4873
+	29315190	sll_sfx_footstep_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_footstep_03_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Footstep\sll_sfx_footstep_03		17869
+	33332646	sll_vo_panting_05	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_panting_05_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Rika VO\sll_vo_panting_05		15656
+	36322618	sll_sfx_arrow_hit_04	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_arrow_hit_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Arrow hit\sll_sfx_arrow_hit_04		124588
+	40003999	sll_vo_panting_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_panting_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Rika VO\sll_vo_panting_02		9054
+	53916401	sll_ui_quit	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_ui_quit_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\UI\sll_ui_quit		10695
+	58320942	sll_sfx_horse_footstep_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_horse_footstep_01_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Horse footstep\sll_sfx_horse_footstep_01		10600
+	66366484	bgm_cs_intro4_bpm52_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_cs_intro4_bpm52_PM1_179463A7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Cutscenes Music\bgm_cs_intro4_bpm52_PM1\bgm_cs_intro4_bpm52_PM1		1975611
+	72890408	sll_amb_ricefield_winter_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_ricefield_winter_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_ricefield_winter_loop		19344
+	81416848	sll_vo_panting_07	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_panting_07_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Rika VO\sll_vo_panting_07		10188
+	82707365	sll_amb_restaurant_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_restaurant_loop_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_restaurant_loop		3241
+	90801689	sll_amb_women_screaming_loop_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_women_loop_01_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_women_screaming_loop_01		2813
+	103674803	sll_sfx_horse_footstep_04	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_horse_footstep_04_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Horse footstep\sll_sfx_horse_footstep_04		10445
+	110306571	bgm_act5_loop_bpm58_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act5_loop_bpm58_4-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act5\bgm_act5_loop_bpm58_4-4_PM1\bgm_act5_loop_bpm58_4-4_PM1		4398518
+	124873213	sll_vo_panting_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_panting_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Rika VO\sll_vo_panting_03		13153
+	131518631	bgm_act2_part1_bpm60_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act2_loop_bpm60_4-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act2\bgm_act2_loop_bpm60_4-4_PM1\bgm_act2_part1_bpm60_4-4_PM1		5380080
+	137004032	sll_amb_day_battlefield_loop_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_day_battle_loop_01_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_day_battlefield_loop_01		723207
+	143306907	sll_sfx_temple_bell	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_temple_bell_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\sll_sfx_temple_bell		118330
+	149564851	sll_vo_bandit_attack_05	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_attack_05_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Attack VO\sll_vo_bandit_attack_05		6276
+	162310413	sll_sfx_horse_footstep_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_horse_footstep_03_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Horse footstep\sll_sfx_horse_footstep_03		8295
+	167992971	sll_sfx_dojo_punch_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_dojo_punch_03_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Dojo Punch\sll_sfx_dojo_punch_03		14635
+	168695318	sll_amb_entertainment_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_entertainment_loop_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_entertainment_loop		4090
+	174039056	sll_sfx_dojo_hit_06	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_dojo_hit_06_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Dojo Hit\sll_sfx_dojo_hit_06		5475
+	177605844	sll_sfx_bow_release_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_bow_release_03_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Bow Release\sll_sfx_bow_release_03		16174
+	186569485	sll_sfx_horse_footstep_10	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_horse_footstep_10_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Horse footstep\sll_sfx_horse_footstep_10		9311
+	190160899	sll_amb_baby_crying_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_baby_crying_loop_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_baby_crying_loop		3467
+	192607623	sll_amb_bandit_chasing_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_chasing_loop_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_bandit_chasing_loop		4859
+	198753118	sll_vo_horse_neigh_04	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_horse_neigh_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Horse VO\sll_vo_horse_neigh_04		21474
+	203946337	bgm_cs_intro1_bpm52_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_cs_intro1_bpm52_PM1_179463A7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Cutscenes Music\bgm_cs_intro1_bpm52_PM1\bgm_cs_intro1_bpm52_PM1		2830563
+	216306333	sll_ui_start	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_ui_start_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\UI\sll_ui_start		99529
+	227914257	sll_sfx_footstep_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_footstep_02_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Footstep\sll_sfx_footstep_02		19228
+	233640006	sll_sfx_horse_footstep_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_horse_footstep_02_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Horse footstep\sll_sfx_horse_footstep_02		9160
+	236682652	sll_amb_fire_loop_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_fire_loop_01_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\fire\sll_amb_fire_loop_01		4517
+	241776501	sll_sfx_bow_release_08	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_bow_release_08_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Bow Release\sll_sfx_bow_release_08		23942
+	244715299	sll_vo_dojo_children_05	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_dojo_children_05_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Children dojo hit vo\sll_vo_dojo_children_05		2715
+	251305677	sll_amb_day_winter_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_day_winter_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_day_winter_loop		19344
+	253773130	sll_vo_dojo_children_08	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_dojo_children_09_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Children dojo hit vo\sll_vo_dojo_children_08		2753
+	255304141	bgm_act4_partB_bpm110_3-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act4_partB_bpm110_3-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act4\bgm_act4_partB_bpm110_4-4_PM1\bgm_act4_partB_bpm110_3-4_PM1		646750
+	259033238	sll_sfx_arrow_hit_06	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_arrow_hit_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Arrow hit\sll_sfx_arrow_hit_06		97920
+	262951507	sll_sfx_horse_footstep_06	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_horse_footstep_06_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Horse footstep\sll_sfx_horse_footstep_06		8067
+	264698698	bgm_act4_intro_bpm110_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act4_intro_bpm110_4-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act4\bgm_act4_intro_bpm110_4-4_PM1\bgm_act4_intro_bpm110_4-4_PM1		600927
+	266856756	bgm_act4_partD_bpm110_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act4_partD_bpm110_4-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act4\bgm_act4_partD_bpm110_4-4_PM1\bgm_act4_partD_bpm110_4-4_PM1		627011
+	280714719	sll_sfx_arrow_hit_08	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_arrow_hit_08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Arrow hit\sll_sfx_arrow_hit_08		126920
+	281462136	sll_amb_crowd_escaping_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_crowd_escaping_loop_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_crowd_escaping_loop		3168
+	292517264	sll_amb_night_marketplace_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_night_marketplace_loop_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_night_marketplace_loop		457557
+	293537017	sll_sfx_dojo_punch_05	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_dojo_punch_05_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Dojo Punch\sll_sfx_dojo_punch_05		13656
+	303009694	sll_sfx_bow_release_05	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_bow_release_05_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Bow Release\sll_sfx_bow_release_05		22323
+	312549145	sll_vo_bandit_attack_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_attack_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Attack VO\sll_vo_bandit_attack_01		6014
+	322082453	sll_amb_dojo_training_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_dojo_training_loop_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_dojo_training_loop		3231
+	324535273	sll_vo_bandit_attack_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_attack_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Attack VO\sll_vo_bandit_attack_02		7257
+	331619107	sll_sfx_dojo_punch_04	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_dojo_punch_04_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Dojo Punch\sll_sfx_dojo_punch_04		14518
+	334065398	sll_vo_horse_neigh_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_horse_neigh_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Horse VO\sll_vo_horse_neigh_03		20673
+	346697301	sll_vo_horse_neigh_05	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_horse_neigh_05_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Horse VO\sll_vo_horse_neigh_05		34411
+	376271501	sll_sfx_bow_release_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_bow_release_01_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Bow Release\sll_sfx_bow_release_01		23692
+	385452051	sll_vo_letter_04	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_letter_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cutscenes\Japanese Voice Over\sll_vo_letter_04		1212926
+	386561186	sll_sfx_footstep_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_footstep_01_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Footstep\sll_sfx_footstep_01		16189
+	393517894	sll_vo_horse_neigh_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_horse_neigh_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Horse VO\sll_vo_horse_neigh_01		26297
+	400272915	sll_sfx_bandit_attack_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_bandit_attack_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Bandit Attack\sll_sfx_bandit_attack_03		67244
+	411521285	sll_sfx_horse_footstep_05	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_horse_footstep_05_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Horse footstep\sll_sfx_horse_footstep_05		8900
+	414372928	sll_sfx_horse_footstep_09	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_horse_footstep_09_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Horse footstep\sll_sfx_horse_footstep_09		8717
+	415283509	sll_sfx_footstep_05	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_footstep_05_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Footstep\sll_sfx_footstep_05		18723
+	421321544	sll_sfx_dojo_hit_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_dojo_hit_01_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Dojo Hit\sll_sfx_dojo_hit_01		5727
+	431620306	sll_vo_bandit_attack_07	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_attack_07_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Attack VO\sll_vo_bandit_attack_07		5212
+	440474925	sll_sfx_arrow_hit_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_arrow_hit_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Arrow hit\sll_sfx_arrow_hit_01		106808
+	457915061	sll_sfx_dojo_punch_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_dojo_punch_02_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Dojo Punch\sll_sfx_dojo_punch_02		16315
+	460253391	bgm_act2_intro_bpm60_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act2_intro_bpm60_4-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act2\bgm_act2_intro_bpm60_4-4_PM1\bgm_act2_intro_bpm60_4-4_PM1		1056075
+	461497516	sll_vo_bandit_attack_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_attack_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Attack VO\sll_vo_bandit_attack_03		8502
+	476100135	sll_amb_children_loop_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_children_loop_01_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_children_loop_01		171423
+	507842725	sll_amb_day_marketplace_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_marketplace_loop_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_day_marketplace_loop		3486
+	517920300	sll_vo_letter_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_letter_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cutscenes\Japanese Voice Over\sll_vo_letter_03		1424030
+	528647565	sll_sfx_horse_footstep_08	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_horse_footstep_08_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Horse footstep\sll_sfx_horse_footstep_08		8071
+	533286225	sll_amb_day_battlefield_loop_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_day_battle_loop_02_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_day_battlefield_loop_02		596148
+	533691292	sll_sfx_bandit_attack_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_bandit_attack_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Bandit Attack\sll_sfx_bandit_attack_01		73576
+	538118541	sll_vo_horse_neigh_07	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_horse_neigh_07_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Horse VO\sll_vo_horse_neigh_07		21364
+	545392015	sll_vo_dying_04	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_dying_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Dying VO\sll_vo_dying_04		6422
+	551694460	bgm_act2_part1_bpm60_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act2_lowend_bpm60_4-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act2\bgm_act2_loop_bpm60_4-4_PM1\bgm_act2_part1_bpm60_4-4_PM1		4709998
+	553908615	sll_amb_night_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_night_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_night_loop		19344
+	560668916	sll_vo_horse_neigh_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_horse_neigh_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Horse VO\sll_vo_horse_neigh_02		22780
+	563340404	sll_sfx_arrow_hit_05	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_arrow_hit_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Arrow hit\sll_sfx_arrow_hit_05		97920
+	573995932	sll_amb_kabuki_theatre	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_kobuki_theatre_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_kabuki_theatre		419502
+	591534624	sll_vo_dying_06	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_dying_06_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Dying VO\sll_vo_dying_06		5640
+	594093484	bgm_act2_part1_bpm60_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act2_highend_bpm60_4-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act2\bgm_act2_loop_bpm60_4-4_PM1\bgm_act2_part1_bpm60_4-4_PM1		4954635
+	595641431	sll_vo_panting_04	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_panting_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Rika VO\sll_vo_panting_04		12913
+	607024235	sll_amb_women_screaming_loop_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_women_loop_02_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_women_screaming_loop_02		3379
+	634083470	sll_vo_dojo_children_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_dojo_children_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Children dojo hit vo\sll_vo_dojo_children_01		3333
+	635125882	bgm_act4_transition_bpm110_3-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act4_transition_bpm110_3-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act4\bgm_act4_transition_bpm110_3-4_PM1\bgm_act4_transition_bpm110_3-4_PM1		526220
+	640015855	sll_vo_panting_06	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_panting_06_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Rika VO\sll_vo_panting_06		14779
+	649697656	sll_sfx_dojo_hit_07	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_dojo_hit_07_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Dojo Hit\sll_sfx_dojo_hit_07		5303
+	657484363	sll_vo_bandit_attack_06	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_attack_06_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Attack VO\sll_vo_bandit_attack_06		8745
+	672203495	sll_sfx_bandit_attack_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_bandit_attack_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Bandit Attack\sll_sfx_bandit_attack_02		67044
+	683473903	sll_amb_river_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_river_loop_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_river_loop		5921
+	694520507	sll_vo_dojo_children_07	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_dojo_children_08_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Children dojo hit vo\sll_vo_dojo_children_07		2143
+	694921146	sll_vo_dojo_children_06	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_dojo_children_06_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Children dojo hit vo\sll_vo_dojo_children_06		4200
+	703234153	sll_sfx_footstep_04	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_footstep_04_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Footstep\sll_sfx_footstep_04		17688
+	712699392	sll_sfx_dojo_hit_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_dojo_hit_03_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Dojo Hit\sll_sfx_dojo_hit_03		3788
+	722850495	sll_vo_dying_05	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_dying_05_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Dying VO\sll_vo_dying_05		7223
+	724793746	bgm_act4_partA1_bpm110_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act4_partA1_bpm110_4-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act4\bgm_act4_partA1_bpm110_4-4_PM1\bgm_act4_partA1_bpm110_4-4_PM1		665204
+	731459816	sll_vo_dying_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_dying_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Dying VO\sll_vo_dying_02		7251
+	735491764	sll_amb_ricefield_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_ricefield_loop_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_ricefield_loop		4049
+	740902111	sll_vo_dying_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_dying_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Dying VO\sll_vo_dying_01		6303
+	742581987	sll_vo_letter_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_letter_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cutscenes\Japanese Voice Over\sll_vo_letter_01		1661417
+	754074079	sll_vo_panting_09	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_panting_09_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Rika VO\sll_vo_panting_09		11381
+	757540377	sll_vo_dying_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_dying_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Dying VO\sll_vo_dying_03		7316
+	758346158	sll_amb_horse_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_horse_loop_8FA32EFE.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_horse_loop		360409
+	784623148	sll_sfx_footstep_06	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_footstep_06_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Footstep\sll_sfx_footstep_06		19020
+	788084272	sll_sfx_bow_release_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_bow_release_02_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Bow Release\sll_sfx_bow_release_02		16925
+	789417748	sll_sfx_bow_release_06	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_bow_release_06_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Bow Release\sll_sfx_bow_release_06		20010
+	796916941	sll_sfx_bandit_attack_04	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_bandit_attack_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Bandit Attack\sll_sfx_bandit_attack_04		61144
+	819679481	sll_vo_panting_08	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_panting_08_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Rika VO\sll_vo_panting_08		18552
+	823227951	sll_amb_fire_loop_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_fire_loop_02_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\fire\sll_amb_fire_loop_02		6206
+	824333443	bgm_cs_intro2_bpm64_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_cs_intro2_bpm64_PM1_179463A7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Cutscenes Music\bgm_cs_intro2_bpm64_PM1\bgm_cs_intro2_bpm64_PM1		2194829
+	828203423	sll_sfx_bow_release_04	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_bow_release_04_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Bow Release\sll_sfx_bow_release_04		22417
+	843207996	sll_amb_day_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_day_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_day_loop		19344
+	848313643	sll_vo_letter_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_letter_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cutscenes\Japanese Voice Over\sll_vo_letter_02		1380718
+	854368718	sll_sfx_dojo_punch_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_dojo_punch_01_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Dojo Punch\sll_sfx_dojo_punch_01		13640
+	862520085	sll_sfx_footstep_07	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_footstep_07_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Footstep\sll_sfx_footstep_07		19713
+	883175242	bgm_act4_partA4_bpm110_3-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act4_partA4_bpm110_3-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act4\bgm_act4_partA4_bpm110_4-4_PM1\bgm_act4_partA4_bpm110_3-4_PM1		630227
+	892504036	bgm_cs_intro3_bpm52_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_cs_intro3_bpm52_PM1_179463A7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Cutscenes Music\bgm_cs_intro3_bpm52_PM1\bgm_cs_intro3_bpm52_PM1		2911567
+	893072318	sll_amb_children_loop_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_children_loop_03_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_children_loop_02		186842
+	899261182	bgm_act4_partC_bpm110_3-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act4_partC_bpm110_3-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act4\bgm_act4_partC_bpm110_4-4_PM1\bgm_act4_partC_bpm110_3-4_PM1		522261
+	925929271	sll_vo_bandit_attack_04	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_attack_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Attack VO\sll_vo_bandit_attack_04		9325
+	926943708	sll_vo_panting_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_panting_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Rika VO\sll_vo_panting_01		11036
+	930485525	sll_sfx_footstep_08	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_footstep_08_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Footstep\sll_sfx_footstep_08		19124
+	941774758	sll_sfx_bow_release_07	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_bow_release_07_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Bow Release\sll_sfx_bow_release_07		23235
+	946719799	sll_vo_dying_07	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_dying_07_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Dying VO\sll_vo_dying_07		5802
+	946879197	sll_sfx_dojo_hit_08	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_dojo_hit_08_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Dojo Hit\sll_sfx_dojo_hit_08		4291
+	947672694	bgm_cs_intro5_bpm58_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_cs_intro5_bpm58_PM1_179463A7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Cutscenes Music\bgm_cs_intro5_bpm58_PM1\bgm_cs_intro5_bpm58_PM1		1593764
+	952127044	sll_vo_letter_05	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_letter_05_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cutscenes\Japanese Voice Over\sll_vo_letter_05		960694
+	964443625	sll_vo_dojo_children_04	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_dojo_children_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Children dojo hit vo\sll_vo_dojo_children_04		3576
+	966316550	sll_sfx_arrow_hit_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_arrow_hit_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Arrow hit\sll_sfx_arrow_hit_02		97920
+	972321637	sll_vo_horse_neigh_08	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_horse_neigh_08_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Horse VO\sll_vo_horse_neigh_08		25036
+	974717590	sll_sfx_arrow_hit_07	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_arrow_hit_07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Arrow hit\sll_sfx_arrow_hit_07		102156
+	975857309	sll_amb_fire_loop_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_fire_loop_03_C3D27408.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\fire\sll_amb_fire_loop_03		5872
+	976665425	sll_vo_dojo_children_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_dojo_children_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Children dojo hit vo\sll_vo_dojo_children_02		3538
+	984662378	sll_sfx_dojo_hit_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_dojo_hit_02_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Dojo Hit\sll_sfx_dojo_hit_02		6155
+	988638157	bgm_act4_partA2_bpm110_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act4_partA2_bpm110_4-4_PM1_43F63D03.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act4\bgm_act4_partA2_bpm110_4-4_PM1\bgm_act4_partA2_bpm110_4-4_PM1		673382
+	1014412846	sll_sfx_horse_footstep_07	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_horse_footstep_07_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Horse footstep\sll_sfx_horse_footstep_07		8037
+	1035573956	sll_vo_bandit_attack_08	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_attack_08_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Bandit VO\Attack VO\sll_vo_bandit_attack_08		6644
+	1061010269	sll_sfx_bandit_attack_05	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_bandit_attack_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Bandit Attack\sll_sfx_bandit_attack_05		73144
+	1071099139	sll_sfx_arrow_hit_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_arrow_hit_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Arrow hit\sll_sfx_arrow_hit_03		124588
+	1071177429	sll_vo_dojo_children_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_dojo_children_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\VO\Children dojo hit vo\sll_vo_dojo_children_03		3781
+	1071429415	sll_sfx_dojo_hit_05	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_sfx_dojo_hit_05_4BB3B825.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\SFX\Dojo Hit\sll_sfx_dojo_hit_05		5368
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	46382331	bgm_act3_explore_bpm68_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act3_explore_bpm68_4-4_PM1_43F63D03.wem	46382331.wem	\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act3\Part1\bgm_act3_explore_bpm68_4-4_PM1\bgm_act3_explore_bpm68_4-4_PM1	
+	72890408	sll_amb_ricefield_winter_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_ricefield_winter_loop_D79FB2B7.wem	72890408.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_ricefield_winter_loop	
+	82707365	sll_amb_restaurant_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_restaurant_loop_C3D27408.wem	82707365.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_restaurant_loop	
+	90801689	sll_amb_women_screaming_loop_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_women_loop_01_C3D27408.wem	90801689.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_women_screaming_loop_01	
+	101625255	bgm_act3_intense_bpm74_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act3_intense_bpm74_4-4_PM1_43F63D03.wem	101625255.wem	\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act3\Part1\bgm_act3_intense_bpm74_4-4_PM1\bgm_act3_intense_bpm74_4-4_PM1	
+	168695318	sll_amb_entertainment_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_entertainment_loop_C3D27408.wem	168695318.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_entertainment_loop	
+	190160899	sll_amb_baby_crying_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_baby_crying_loop_C3D27408.wem	190160899.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_baby_crying_loop	
+	192607623	sll_amb_bandit_chasing_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_vo_bandit_chasing_loop_C3D27408.wem	192607623.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_bandit_chasing_loop	
+	236682652	sll_amb_fire_loop_01	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_fire_loop_01_C3D27408.wem	236682652.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\fire\sll_amb_fire_loop_01	
+	251305677	sll_amb_day_winter_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_day_winter_loop_D79FB2B7.wem	251305677.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_day_winter_loop	
+	281462136	sll_amb_crowd_escaping_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_crowd_escaping_loop_C3D27408.wem	281462136.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_crowd_escaping_loop	
+	322082453	sll_amb_dojo_training_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_dojo_training_loop_C3D27408.wem	322082453.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_dojo_training_loop	
+	339805535	bgm_act3_intro_bpm60_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act3_intro_bpm60_4-4_PM1_43F63D03.wem	339805535.wem	\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act3\Part1\bgm_act3_intro_bpm60_4-4_PM1\bgm_act3_intro_bpm60_4-4_PM1	
+	507842725	sll_amb_day_marketplace_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_marketplace_loop_C3D27408.wem	507842725.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_day_marketplace_loop	
+	553908615	sll_amb_night_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_night_loop_D79FB2B7.wem	553908615.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_night_loop	
+	607024235	sll_amb_women_screaming_loop_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_women_loop_02_C3D27408.wem	607024235.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_women_screaming_loop_02	
+	609019263	bgm_act1_loop_bpm80_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act1_loop_bpm80_4-4_PM1_43F63D03.wem	609019263.wem	\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act1\bgm_act1_loop_bpm80_4-4_PM1\bgm_act1_loop_bpm80_4-4_PM1	
+	683473903	sll_amb_river_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_river_loop_C3D27408.wem	683473903.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_river_loop	
+	690372684	bgm_act1_intro_bpm80_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act1_intro_bpm80_4-4_PM1_43F63D03.wem	690372684.wem	\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act1\bgm_act1_intro_bpm80_4-4_PM1\bgm_act1_intro_bpm80_4-4_PM1	
+	735491764	sll_amb_ricefield_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_ricefield_loop_C3D27408.wem	735491764.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_ricefield_loop	
+	780241273	bgm_act3_transition_bpm74_4-4_PM1	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\bgm_act3_transition_bpm74_4-4_PM1_43F63D03.wem	780241273.wem	\Interactive Music Hierarchy\Default Work Unit\Village\Gameplay Music\Act3\Part1\bgm_act3_transition_bpm74_4-4_PM1\bgm_act3_transition_bpm74_4-4_PM1	
+	823227951	sll_amb_fire_loop_02	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_fire_loop_02_C3D27408.wem	823227951.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\fire\sll_amb_fire_loop_02	
+	843207996	sll_amb_day_loop	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_day_loop_D79FB2B7.wem	843207996.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\sll_amb_day_loop	
+	975857309	sll_amb_fire_loop_03	Y:\Aisaguri Level Design Complete  Final\Aisaguri Level Design_WwiseProject\.cache\Windows\SFX\sll_amb_fire_loop_03_C3D27408.wem	975857309.wem	\Actor-Mixer Hierarchy\Default Work Unit\Gameplay\Village\Amb\fire\sll_amb_fire_loop_03	
+

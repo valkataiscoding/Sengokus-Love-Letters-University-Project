@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{BE9EB103-5A96-4A85-8243-FFF00C43531B}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{BE9EB103-5A96-4A85-8243-FFF00C43531B}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="SLL" ID="{01DA69F4-D1C4-4C6C-992E-16D90702E3C7}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{A234EEEF-7199-4354-9439-501812104805}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Gameplay Music" ID="{C5922078-A462-41ED-8956-0F94DB1D53A1}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Gameplay" ID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="VO" ID="{91667897-E1C2-42B8-89CE-E0F501745AD7}" WorkUnitID="{91667897-E1C2-42B8-89CE-E0F501745AD7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Cutscenes" ID="{EC1B09BD-7204-4B55-8AAC-08814DC4B558}" WorkUnitID="{EC1B09BD-7204-4B55-8AAC-08814DC4B558}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Music" ID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}" WorkUnitID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Generic" ID="{02325C7E-3241-4D8A-8EAD-7B34443BAD8A}" WorkUnitID="{02325C7E-3241-4D8A-8EAD-7B34443BAD8A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Village" ID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambience" ID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}" WorkUnitID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SFX" ID="{75838C5C-E276-4FA6-8CF8-37B21158B0AA}" WorkUnitID="{75838C5C-E276-4FA6-8CF8-37B21158B0AA}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

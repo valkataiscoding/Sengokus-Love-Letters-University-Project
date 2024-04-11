@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{91667897-E1C2-42B8-89CE-E0F501745AD7}" SchemaVersion="103" RootDocumentID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}" ParentDocumentID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}">
+	<Events>
+		<WorkUnit Name="VO" ID="{91667897-E1C2-42B8-89CE-E0F501745AD7}" OwnerID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="RikaPanting" ID="{35A76781-EE62-4882-923B-07C3569C6571}">
+					<ChildrenList>
+						<Action Name="" ID="{3DB613A1-CDCD-4679-AFE3-A56DC5B1F572}" ShortID="1025358376">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Rika VO" ID="{CDFC8518-A886-45A6-8CE7-113F5D504D1F}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="BanditAttackVO" ID="{9AC3E31F-6BD1-4E85-88F5-E76E4C55C249}">
+					<ChildrenList>
+						<Action Name="" ID="{CB6FE171-A1CF-4E8F-82AD-15082AE8CDBE}" ShortID="84123288">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Attack VO" ID="{7D9500B1-FF91-4FBC-AE8F-18AEA2AF2D88}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Letter1" ID="{63BBD122-1F18-41BD-B5A8-5948581B8274}">
+					<ChildrenList>
+						<Action Name="" ID="{7FBA89F2-1C6E-465D-801F-4B64CE09145C}" ShortID="286115461">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_vo_letter_01" ID="{6A360B4C-508C-4881-879E-9C8F6BE0415C}" WorkUnitID="{EC1B09BD-7204-4B55-8AAC-08814DC4B558}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Letter3" ID="{B5C25034-55D7-4A67-8C5F-30A9B8B6B2B0}">
+					<ChildrenList>
+						<Action Name="" ID="{EF8FB8E7-1BC0-48F2-AB2E-23347F6E3CC6}" ShortID="296259925">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_vo_letter_03" ID="{45E3EA32-6329-4DAF-917D-9C5124ADE3D6}" WorkUnitID="{EC1B09BD-7204-4B55-8AAC-08814DC4B558}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Letter4" ID="{F24DD26D-8529-4D09-89F8-3380DCE38EFD}">
+					<ChildrenList>
+						<Action Name="" ID="{A170F421-2945-4202-B773-F1B9ACFCF081}" ShortID="308047543">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_vo_letter_04" ID="{93A8635E-BBDB-4A2F-B5C8-7F5848E9BBE6}" WorkUnitID="{EC1B09BD-7204-4B55-8AAC-08814DC4B558}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Letter5" ID="{C0112351-5EC3-4DAF-A53B-718BA9AEB7D0}">
+					<ChildrenList>
+						<Action Name="" ID="{8606FBDC-6B43-4BE2-A05B-E55FAF2A3A40}" ShortID="672117713">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_vo_letter_05" ID="{FF740CAC-4A78-4B95-8275-F29D03B5D426}" WorkUnitID="{EC1B09BD-7204-4B55-8AAC-08814DC4B558}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Letter2" ID="{BD9BEF21-4BF9-4798-A547-0AFA715C21A1}">
+					<ChildrenList>
+						<Action Name="" ID="{01FA8A04-A079-461E-9C04-4DF2C1D289D0}" ShortID="256933729">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_vo_letter_02" ID="{05B230F6-F4ED-4EE5-905D-D44D3DEA38CF}" WorkUnitID="{EC1B09BD-7204-4B55-8AAC-08814DC4B558}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="BanditDyingVO" ID="{7112E126-BD75-49B8-8B4E-879E44C2FB7E}">
+					<ChildrenList>
+						<Action Name="" ID="{B2C9B6A8-1FCE-492A-B5FF-707CF282330F}" ShortID="258743419">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Dying VO" ID="{EBF3A1E9-E14D-4117-ACB6-78682D3E99B4}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Horse_VO" ID="{7434A10B-5BD6-4EF1-AB84-B7E3635FD17C}">
+					<ChildrenList>
+						<Action Name="" ID="{90E78B91-9C42-40DA-A733-F6541D3A2B46}" ShortID="736402347">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Horse VO" ID="{F722222C-3A59-464E-B13A-A04D0D0CAE4C}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="VillagerDyingVO" ID="{292F3B3D-D18C-4B13-9EC0-883961455F05}">
+					<ChildrenList>
+						<Action Name="" ID="{BC4AA973-70FA-4EEF-9BDC-96E9C791E5A8}" ShortID="99008164">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Villager Dying VO" ID="{25CF99BA-347F-4A85-8B18-D40C4004A4FA}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DojoChildrenVO" ID="{028C402E-9D8B-4BF1-84B3-79FE30ACF0A8}">
+					<ChildrenList>
+						<Action Name="" ID="{2141B351-A136-49E9-A752-284652E618C4}" ShortID="537240212">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Children dojo hit vo" ID="{66680AC8-B96D-4A78-A2EA-385360CE0705}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

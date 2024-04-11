@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}" SchemaVersion="103" RootDocumentID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}" ParentDocumentID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}">
+	<Events>
+		<WorkUnit Name="Music" ID="{3301CA49-51D8-4D21-A7E8-795D6DAC5196}" OwnerID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Act1" ID="{7D8CCA8D-5E7F-4525-BB94-94ED54DEE603}">
+					<ChildrenList>
+						<Action Name="" ID="{872D2780-DAB4-4D7B-93B6-7F0ED4E3E165}" ShortID="967693614">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Act1" ID="{79F8BFE1-AC47-4CBF-87B9-2DB32BDB8A97}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_Stop" ID="{734AC9C3-FBBC-4E63-8BD9-41E2E4A33F44}">
+					<ChildrenList>
+						<Action Name="" ID="{401CE3B2-8C57-4887-890B-9B3BD38E6D7D}" ShortID="54596018">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gameplay Music" ID="{C5922078-A462-41ED-8956-0F94DB1D53A1}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Intro1" ID="{D69038DE-528D-4683-B80A-E2204C35B05D}">
+					<ChildrenList>
+						<Action Name="" ID="{73944332-60FA-430E-B5DD-04C07B300E59}" ShortID="616270633">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gameplay Music" ID="{C5922078-A462-41ED-8956-0F94DB1D53A1}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{3C7B0593-AC63-4B7E-B669-FE8120F4E4F2}" ShortID="127114659">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="bgm_cs_intro1_bpm52_PM1" ID="{5BC044C9-F470-4C94-87DD-127B6B69EDDB}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Intro2" ID="{BB7E4A86-CC28-46B9-911E-7D3B176CDEE8}">
+					<ChildrenList>
+						<Action Name="" ID="{E2A6D29C-ABDC-4E7E-A064-BEE9A21FFB3A}" ShortID="1067328712">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gameplay Music" ID="{C5922078-A462-41ED-8956-0F94DB1D53A1}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{006CE50A-27F7-4DDF-AC6C-75A3C1B290AA}" ShortID="892223007">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="bgm_cs_intro2_bpm64_PM1" ID="{28E8ED40-8C97-4B82-BC02-F9BAFE8BA551}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Intro3" ID="{D82CD27C-008F-46C8-881F-E30485EA5521}">
+					<ChildrenList>
+						<Action Name="" ID="{C238F89D-CF82-43D8-9BF5-768720C9FC52}" ShortID="1029499310">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gameplay Music" ID="{C5922078-A462-41ED-8956-0F94DB1D53A1}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{7E4A7CA6-B204-46C6-BDAF-430FB6E88D46}" ShortID="270271238">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="bgm_cs_intro3_bpm52_PM1" ID="{F89BBAA0-F71C-4549-83DC-21E71184FF2F}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Act4" ID="{F3D431AE-3239-43E4-A53F-1B98DB93D3BD}">
+					<ChildrenList>
+						<Action Name="" ID="{D4C5B393-8F88-4FFC-900A-CE1722AB6D41}" ShortID="396661892">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Act4" ID="{9B56AAEC-25E4-4E22-B06F-1DFFCF5F0B4C}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Act5" ID="{55D8B22B-AB60-40CE-8FE0-CFBE5787D920}">
+					<ChildrenList>
+						<Action Name="" ID="{A9D08EF6-254C-4CC3-B7D1-FF48141EAC2B}" ShortID="57739926">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Act5" ID="{59C4A76F-BD05-465E-991E-D474CDF99EA7}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Intro4" ID="{C3281587-9DC8-4E33-A73D-96FF06E403F1}">
+					<ChildrenList>
+						<Action Name="" ID="{1B4C1805-F2B2-4E5A-A8FA-C4626C93F390}" ShortID="326969233">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gameplay Music" ID="{C5922078-A462-41ED-8956-0F94DB1D53A1}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{67A2FFCE-7923-4D1C-B917-F1666A0AD6E7}" ShortID="208854797">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="bgm_cs_intro4_bpm52_PM1" ID="{449E65A3-B76C-4E20-8945-F45EAE7B4176}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Intro5" ID="{246FB0D7-DB2E-4B9B-9E4A-43569A6A79F1}">
+					<ChildrenList>
+						<Action Name="" ID="{9AAFD5CB-0958-449F-BBD2-9975FC4A8A72}" ShortID="415748449">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gameplay Music" ID="{C5922078-A462-41ED-8956-0F94DB1D53A1}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{7C7C6ADD-BD10-4838-8C0C-4EF76504FAD7}" ShortID="73551060">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="bgm_cs_intro5_bpm58_PM1" ID="{57FA8260-CF6B-460D-8BDC-E0065B268106}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music" ID="{4893EED4-C7AB-411A-AC0E-4F423F5E6E11}">
+					<ChildrenList>
+						<Action Name="" ID="{FDF56841-99B6-42C1-9199-005F0FEBCDD9}" ShortID="1062483116">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gameplay Music" ID="{C5922078-A462-41ED-8956-0F94DB1D53A1}" WorkUnitID="{87F367B6-1201-4DF5-B977-B8DA4BA95AC0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

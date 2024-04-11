@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3CF262A3-FEDB-41AB-87AD-9CDBBDE189D2}" SchemaVersion="103" RootDocumentID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}" ParentDocumentID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}">
+	<Events>
+		<WorkUnit Name="UI" ID="{3CF262A3-FEDB-41AB-87AD-9CDBBDE189D2}" OwnerID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Start" ID="{11D22623-7220-43CA-B478-E87A98DFE60E}">
+					<ChildrenList>
+						<Action Name="" ID="{4A4A46AF-66EB-40BF-A44B-CD12A1DA6DA5}" ShortID="90287457">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_ui_start" ID="{543A8B2E-E285-4797-8624-C3B0E921E424}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Quit" ID="{4A405AD0-585A-441B-8648-65C38A27C838}">
+					<ChildrenList>
+						<Action Name="" ID="{880951DD-F7B1-4D9B-ACA7-08030DD46E12}" ShortID="550654720">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_ui_quit" ID="{4FC90114-6A5A-448C-8A70-BEEA71D0F1F3}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

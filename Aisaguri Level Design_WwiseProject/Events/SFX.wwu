@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{75838C5C-E276-4FA6-8CF8-37B21158B0AA}" SchemaVersion="103" RootDocumentID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}" ParentDocumentID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}">
+	<Events>
+		<WorkUnit Name="SFX" ID="{75838C5C-E276-4FA6-8CF8-37B21158B0AA}" OwnerID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="BanditAttack" ID="{DB08DCEF-9C43-4701-979C-B4464F07BFBD}">
+					<ChildrenList>
+						<Action Name="" ID="{05DB1F8F-1A6B-405D-9AA4-02A8FFFE09E2}" ShortID="848227764">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bandit Attack" ID="{ADEC1D8C-D153-49F8-A675-1D0245424D5E}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ArrowHit" ID="{7DA1DFAE-913F-4F86-A2AD-A095A9911BA4}">
+					<ChildrenList>
+						<Action Name="" ID="{2A76D464-6D08-45DA-992B-EBD1F61D05F3}" ShortID="461190101">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Arrow hit" ID="{E1CEF044-0294-4175-8E37-AF393CC5C4C2}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="BowRelease" ID="{D56A441A-4C2A-4D5F-A9A7-86796DE8D84A}">
+					<ChildrenList>
+						<Action Name="" ID="{A1296A6C-E3D6-4214-AD66-82D5C8A97341}" ShortID="779490464">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bow Release" ID="{1F92C625-A04D-44FE-A45D-3D2D389A72CB}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="HorseFootstep" ID="{ECB564C1-CA93-47D1-AB01-91CD661344FB}">
+					<ChildrenList>
+						<Action Name="" ID="{887DAE4E-0B5E-4F10-8A14-57A5D283B55A}" ShortID="796815519">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Horse footstep" ID="{2294A6BA-6259-47A1-A165-1FFA8DE17C75}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DojoPunch" ID="{8C6A2726-D5BE-44ED-9091-3FD221F427F6}">
+					<ChildrenList>
+						<Action Name="" ID="{3C861A1E-280D-4A44-98F0-CB5C44508747}" ShortID="815706698">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Dojo Punch" ID="{3BD054EA-A12C-4B4D-812B-E2042BF4BEB1}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DojoHit" ID="{A8304AE6-315D-4669-AEBB-2D373380FA1B}">
+					<ChildrenList>
+						<Action Name="" ID="{FA92D352-F96D-49C3-A0B2-141FE739944C}" ShortID="793740186">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Dojo Hit" ID="{9973E413-BB24-4B56-9A9A-AFFD188B6A9F}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

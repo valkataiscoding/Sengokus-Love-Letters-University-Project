@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{61926AC2-9052-44D9-AF33-181319A166C9}" SchemaVersion="103">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{61926AC2-9052-44D9-AF33-181319A166C9}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Village" ID="{DFD235CB-F912-49B9-8C71-E95A8F97ECCE}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

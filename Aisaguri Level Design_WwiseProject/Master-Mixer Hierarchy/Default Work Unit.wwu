@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A234EEEF-7199-4354-9439-501812104805}" SchemaVersion="103">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{A234EEEF-7199-4354-9439-501812104805}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>4</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="System" ID="{C4F49FD1-E47B-4656-8CFD-B481BF029B97}" WorkUnitID="{5682EC0C-C26C-4FB9-A7D8-98BBC8B34CCB}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="Sound" ID="{F78DD5C5-41B1-438B-BAD4-2E454D300002}">
+							<PropertyList>
+								<Property Name="BusVolume" Type="Real64">
+									<ValueList>
+										<Value>4</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList/>
+							<ChildrenList>
+								<AuxBus Name="Ambience" ID="{48FD0253-2607-4034-A17A-D0847B6817AA}">
+									<PropertyList>
+										<Property Name="BusVolume" Type="Real64">
+											<ValueList>
+												<Value>3</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList/>
+									<ObjectLists/>
+								</AuxBus>
+								<AuxBus Name="SFX" ID="{1B722F45-F53E-4419-8D83-A1D2773180D4}">
+									<ReferenceList/>
+									<ObjectLists/>
+								</AuxBus>
+								<AuxBus Name="UI" ID="{071EE307-F1C2-46F6-8F26-06A32A66533D}">
+									<ReferenceList/>
+									<ObjectLists/>
+								</AuxBus>
+								<AuxBus Name="VO" ID="{C307878E-8244-4DD1-8618-D0DC841A37A5}">
+									<ReferenceList/>
+									<ObjectLists/>
+								</AuxBus>
+							</ChildrenList>
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="Music" ID="{A316ABAD-A156-4133-92E6-B789DE0D73BD}">
+							<PropertyList>
+								<Property Name="BusVolume" Type="Real64">
+									<ValueList>
+										<Value>2</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Effect0" PluginName="Wwise Compressor" CompanyID="0" PluginID="108" PluginType="3">
+									<ObjectRef Name="Hard_Knee_Minus_3dB_RMS" ID="{D083BAE5-F9EF-426B-A311-D9DF8DFE8807}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Bus Name="Gameplay" ID="{2A79EAB7-18A9-4E9F-BF12-4170942117B4}">
+									<PropertyList>
+										<Property Name="BusVolume" Type="Real64">
+											<ValueList>
+												<Value>1</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList/>
+									<ObjectLists/>
+								</Bus>
+								<Bus Name="Intro Cutscenes" ID="{5790C49A-CD0C-4BBB-A818-49807CB8D905}">
+									<PropertyList>
+										<Property Name="BusVolume" Type="Real64">
+											<ValueList>
+												<Value>-2</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList/>
+									<ObjectLists/>
+								</Bus>
+							</ChildrenList>
+							<ObjectLists/>
+						</Bus>
+					</ChildrenList>
+					<ObjectLists/>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

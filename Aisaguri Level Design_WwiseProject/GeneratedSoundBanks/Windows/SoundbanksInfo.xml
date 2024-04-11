@@ -1,0 +1,1730 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>/Users/jingxinlim/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Aisaguri Level Design Complete  Final/Aisaguri Level Design_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/jingxinlim/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Aisaguri Level Design Complete  Final/Aisaguri Level Design_WwiseProject/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/jingxinlim/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Aisaguri Level Design Complete  Final/Aisaguri Level Design_WwiseProject/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/jingxinlim/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Aisaguri Level Design Complete  Final/Aisaguri Level Design_WwiseProject/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="46382331" Language="SFX">
+			<ShortName>bgm_act3_explore_bpm68_4-4_PM1.wav</ShortName>
+			<Path>SFX/bgm_act3_explore_bpm68_4-4_PM1_43F63D03.wem</Path>
+		</File>
+		<File Id="72890408" Language="SFX">
+			<ShortName>sll_amb_ricefield_winter_loop.wav</ShortName>
+			<Path>SFX/sll_amb_ricefield_winter_loop_D79FB2B7.wem</Path>
+		</File>
+		<File Id="82707365" Language="SFX">
+			<ShortName>sll_amb_restaurant_loop.wav</ShortName>
+			<Path>SFX/sll_amb_restaurant_loop_C3D27408.wem</Path>
+		</File>
+		<File Id="90801689" Language="SFX">
+			<ShortName>sll_amb_women_loop_01.wav</ShortName>
+			<Path>SFX/sll_amb_women_loop_01_C3D27408.wem</Path>
+		</File>
+		<File Id="101625255" Language="SFX">
+			<ShortName>bgm_act3_intense_bpm74_4-4_PM1.wav</ShortName>
+			<Path>SFX/bgm_act3_intense_bpm74_4-4_PM1_43F63D03.wem</Path>
+		</File>
+		<File Id="168695318" Language="SFX">
+			<ShortName>sll_amb_entertainment_loop.wav</ShortName>
+			<Path>SFX/sll_amb_entertainment_loop_C3D27408.wem</Path>
+		</File>
+		<File Id="190160899" Language="SFX">
+			<ShortName>sll_amb_baby_crying_loop.wav</ShortName>
+			<Path>SFX/sll_amb_baby_crying_loop_C3D27408.wem</Path>
+		</File>
+		<File Id="192607623" Language="SFX">
+			<ShortName>sll_vo_bandit_chasing_loop.wav</ShortName>
+			<Path>SFX/sll_vo_bandit_chasing_loop_C3D27408.wem</Path>
+		</File>
+		<File Id="236682652" Language="SFX">
+			<ShortName>sll_amb_fire_loop_01.wav</ShortName>
+			<Path>SFX/sll_amb_fire_loop_01_C3D27408.wem</Path>
+		</File>
+		<File Id="251305677" Language="SFX">
+			<ShortName>sll_amb_day_winter_loop.wav</ShortName>
+			<Path>SFX/sll_amb_day_winter_loop_D79FB2B7.wem</Path>
+		</File>
+		<File Id="281462136" Language="SFX">
+			<ShortName>sll_amb_crowd_escaping_loop.wav</ShortName>
+			<Path>SFX/sll_amb_crowd_escaping_loop_C3D27408.wem</Path>
+		</File>
+		<File Id="322082453" Language="SFX">
+			<ShortName>sll_amb_dojo_training_loop.wav</ShortName>
+			<Path>SFX/sll_amb_dojo_training_loop_C3D27408.wem</Path>
+		</File>
+		<File Id="339805535" Language="SFX">
+			<ShortName>bgm_act3_intro_bpm60_4-4_PM1.wav</ShortName>
+			<Path>SFX/bgm_act3_intro_bpm60_4-4_PM1_43F63D03.wem</Path>
+		</File>
+		<File Id="507842725" Language="SFX">
+			<ShortName>sll_amb_marketplace_loop.wav</ShortName>
+			<Path>SFX/sll_amb_marketplace_loop_C3D27408.wem</Path>
+		</File>
+		<File Id="553908615" Language="SFX">
+			<ShortName>sll_amb_night_loop.wav</ShortName>
+			<Path>SFX/sll_amb_night_loop_D79FB2B7.wem</Path>
+		</File>
+		<File Id="607024235" Language="SFX">
+			<ShortName>sll_amb_women_loop_02.wav</ShortName>
+			<Path>SFX/sll_amb_women_loop_02_C3D27408.wem</Path>
+		</File>
+		<File Id="609019263" Language="SFX">
+			<ShortName>bgm_act1_loop_bpm80_4-4_PM1.wav</ShortName>
+			<Path>SFX/bgm_act1_loop_bpm80_4-4_PM1_43F63D03.wem</Path>
+		</File>
+		<File Id="683473903" Language="SFX">
+			<ShortName>sll_amb_river_loop.wav</ShortName>
+			<Path>SFX/sll_amb_river_loop_C3D27408.wem</Path>
+		</File>
+		<File Id="690372684" Language="SFX">
+			<ShortName>bgm_act1_intro_bpm80_4-4_PM1.wav</ShortName>
+			<Path>SFX/bgm_act1_intro_bpm80_4-4_PM1_43F63D03.wem</Path>
+		</File>
+		<File Id="735491764" Language="SFX">
+			<ShortName>sll_amb_ricefield_loop.wav</ShortName>
+			<Path>SFX/sll_amb_ricefield_loop_C3D27408.wem</Path>
+		</File>
+		<File Id="780241273" Language="SFX">
+			<ShortName>bgm_act3_transition_bpm74_4-4_PM1.wav</ShortName>
+			<Path>SFX/bgm_act3_transition_bpm74_4-4_PM1_43F63D03.wem</Path>
+		</File>
+		<File Id="823227951" Language="SFX">
+			<ShortName>sll_amb_fire_loop_02.wav</ShortName>
+			<Path>SFX/sll_amb_fire_loop_02_C3D27408.wem</Path>
+		</File>
+		<File Id="843207996" Language="SFX">
+			<ShortName>sll_amb_day_loop.wav</ShortName>
+			<Path>SFX/sll_amb_day_loop_D79FB2B7.wem</Path>
+		</File>
+		<File Id="975857309" Language="SFX">
+			<ShortName>sll_amb_fire_loop_03.wav</ShortName>
+			<Path>SFX/sll_amb_fire_loop_03_C3D27408.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="493905620" Language="SFX" Hash="1685930345">
+			<ObjectPath>\SoundBanks\Default Work Unit\SLL</ObjectPath>
+			<ShortName>SLL</ShortName>
+			<Path>SLL.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3504395756" Name="Act1" ObjectPath="\Events\Default Work Unit\Music\Act1">
+					<ReferencedStreamedFiles>
+						<File Id="609019263" Language="SFX">
+							<ShortName>bgm_act1_loop_bpm80_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act1_loop_bpm80_4-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="690372684" Language="SFX">
+							<ShortName>bgm_act1_intro_bpm80_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act1_intro_bpm80_4-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="780241273" Language="SFX">
+							<ShortName>bgm_act3_transition_bpm74_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act3_transition_bpm74_4-4_PM1_43F63D03.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="3504395753" Name="Act4" ObjectPath="\Events\Default Work Unit\Music\Act4">
+					<ReferencedStreamedFiles>
+						<File Id="780241273" Language="SFX">
+							<ShortName>bgm_act3_transition_bpm74_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act3_transition_bpm74_4-4_PM1_43F63D03.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="11892972" Language="SFX">
+							<ShortName>bgm_act4_partA3_bpm110_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act4_partA3_bpm110_4-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="255304141" Language="SFX">
+							<ShortName>bgm_act4_partB_bpm110_3-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act4_partB_bpm110_3-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="264698698" Language="SFX">
+							<ShortName>bgm_act4_intro_bpm110_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act4_intro_bpm110_4-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="266856756" Language="SFX">
+							<ShortName>bgm_act4_partD_bpm110_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act4_partD_bpm110_4-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="635125882" Language="SFX">
+							<ShortName>bgm_act4_transition_bpm110_3-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act4_transition_bpm110_3-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="724793746" Language="SFX">
+							<ShortName>bgm_act4_partA1_bpm110_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act4_partA1_bpm110_4-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="883175242" Language="SFX">
+							<ShortName>bgm_act4_partA4_bpm110_3-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act4_partA4_bpm110_3-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="899261182" Language="SFX">
+							<ShortName>bgm_act4_partC_bpm110_3-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act4_partC_bpm110_3-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="988638157" Language="SFX">
+							<ShortName>bgm_act4_partA2_bpm110_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act4_partA2_bpm110_4-4_PM1_43F63D03.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3504395752" Name="Act5" ObjectPath="\Events\Default Work Unit\Music\Act5">
+					<ReferencedStreamedFiles>
+						<File Id="780241273" Language="SFX">
+							<ShortName>bgm_act3_transition_bpm74_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act3_transition_bpm74_4-4_PM1_43F63D03.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="110306571" Language="SFX">
+							<ShortName>bgm_act5_loop_bpm58_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act5_loop_bpm58_4-4_PM1_43F63D03.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2640186085" Name="amb_baby_crying" ObjectPath="\Events\Default Work Unit\Ambience\amb_baby_crying" MaxAttenuation="15.">
+					<ReferencedStreamedFiles>
+						<File Id="190160899" Language="SFX">
+							<ShortName>sll_amb_baby_crying_loop.wav</ShortName>
+							<Path>SFX/sll_amb_baby_crying_loop_C3D27408.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="190160899" Language="SFX">
+							<ShortName>sll_amb_baby_crying_loop.wav</ShortName>
+							<Path>SFX/sll_amb_baby_crying_loop_C3D27408.wem</Path>
+							<PrefetchSize>3467</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="980241130" Name="amb_bandit_chasing" ObjectPath="\Events\Default Work Unit\Ambience\amb_bandit_chasing" MaxAttenuation="20.">
+					<ReferencedStreamedFiles>
+						<File Id="192607623" Language="SFX">
+							<ShortName>sll_vo_bandit_chasing_loop.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_chasing_loop_C3D27408.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="192607623" Language="SFX">
+							<ShortName>sll_vo_bandit_chasing_loop.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_chasing_loop_C3D27408.wem</Path>
+							<PrefetchSize>4859</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="450111783" Name="amb_children_01" ObjectPath="\Events\Default Work Unit\Ambience\amb_children_01" MaxAttenuation="20.">
+					<IncludedMemoryFiles>
+						<File Id="476100135" Language="SFX">
+							<ShortName>sll_amb_children_loop_01.wav</ShortName>
+							<Path>SFX/sll_amb_children_loop_01_C3D27408.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="450111780" Name="amb_children_02" ObjectPath="\Events\Default Work Unit\Ambience\amb_children_02" MaxAttenuation="20.">
+					<IncludedMemoryFiles>
+						<File Id="893072318" Language="SFX">
+							<ShortName>sll_amb_children_loop_03.wav</ShortName>
+							<Path>SFX/sll_amb_children_loop_03_C3D27408.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3063912617" Name="amb_crowd_screaming" ObjectPath="\Events\Default Work Unit\Ambience\amb_crowd_screaming" MaxAttenuation="20.">
+					<ReferencedStreamedFiles>
+						<File Id="281462136" Language="SFX">
+							<ShortName>sll_amb_crowd_escaping_loop.wav</ShortName>
+							<Path>SFX/sll_amb_crowd_escaping_loop_C3D27408.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="281462136" Language="SFX">
+							<ShortName>sll_amb_crowd_escaping_loop.wav</ShortName>
+							<Path>SFX/sll_amb_crowd_escaping_loop_C3D27408.wem</Path>
+							<PrefetchSize>3168</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3453085348" Name="amb_day" ObjectPath="\Events\Default Work Unit\Ambience\amb_day" MaxAttenuation="30.">
+					<ReferencedStreamedFiles>
+						<File Id="843207996" Language="SFX">
+							<ShortName>sll_amb_day_loop.wav</ShortName>
+							<Path>SFX/sll_amb_day_loop_D79FB2B7.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="843207996" Language="SFX">
+							<ShortName>sll_amb_day_loop.wav</ShortName>
+							<Path>SFX/sll_amb_day_loop_D79FB2B7.wem</Path>
+							<PrefetchSize>19344</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2136009208" Name="amb_day_battlefield_02" ObjectPath="\Events\Default Work Unit\Ambience\amb_day_battlefield_02" MaxAttenuation="25.">
+					<IncludedMemoryFiles>
+						<File Id="533286225" Language="SFX">
+							<ShortName>sll_amb_day_battle_loop_02.wav</ShortName>
+							<Path>SFX/sll_amb_day_battle_loop_02_C3D27408.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3669194765" Name="amb_day_battlefiled_01" ObjectPath="\Events\Default Work Unit\Ambience\amb_day_battlefiled_01" MaxAttenuation="25.">
+					<IncludedMemoryFiles>
+						<File Id="137004032" Language="SFX">
+							<ShortName>sll_amb_day_battle_loop_01.wav</ShortName>
+							<Path>SFX/sll_amb_day_battle_loop_01_C3D27408.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1497337916" Name="amb_day_marketplace" ObjectPath="\Events\Default Work Unit\Ambience\amb_day_marketplace" MaxAttenuation="45.">
+					<ReferencedStreamedFiles>
+						<File Id="507842725" Language="SFX">
+							<ShortName>sll_amb_marketplace_loop.wav</ShortName>
+							<Path>SFX/sll_amb_marketplace_loop_C3D27408.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="507842725" Language="SFX">
+							<ShortName>sll_amb_marketplace_loop.wav</ShortName>
+							<Path>SFX/sll_amb_marketplace_loop_C3D27408.wem</Path>
+							<PrefetchSize>3486</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1061019936" Name="amb_day_winter" ObjectPath="\Events\Default Work Unit\Ambience\amb_day_winter" MaxAttenuation="30.">
+					<ReferencedStreamedFiles>
+						<File Id="251305677" Language="SFX">
+							<ShortName>sll_amb_day_winter_loop.wav</ShortName>
+							<Path>SFX/sll_amb_day_winter_loop_D79FB2B7.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="251305677" Language="SFX">
+							<ShortName>sll_amb_day_winter_loop.wav</ShortName>
+							<Path>SFX/sll_amb_day_winter_loop_D79FB2B7.wem</Path>
+							<PrefetchSize>19344</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2957742932" Name="amb_dojo" ObjectPath="\Events\Default Work Unit\Ambience\amb_dojo" MaxAttenuation="30.">
+					<ReferencedStreamedFiles>
+						<File Id="322082453" Language="SFX">
+							<ShortName>sll_amb_dojo_training_loop.wav</ShortName>
+							<Path>SFX/sll_amb_dojo_training_loop_C3D27408.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="322082453" Language="SFX">
+							<ShortName>sll_amb_dojo_training_loop.wav</ShortName>
+							<Path>SFX/sll_amb_dojo_training_loop_C3D27408.wem</Path>
+							<PrefetchSize>3231</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2813190856" Name="amb_entertainment" ObjectPath="\Events\Default Work Unit\Ambience\amb_entertainment" MaxAttenuation="30.">
+					<ReferencedStreamedFiles>
+						<File Id="168695318" Language="SFX">
+							<ShortName>sll_amb_entertainment_loop.wav</ShortName>
+							<Path>SFX/sll_amb_entertainment_loop_C3D27408.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="168695318" Language="SFX">
+							<ShortName>sll_amb_entertainment_loop.wav</ShortName>
+							<Path>SFX/sll_amb_entertainment_loop_C3D27408.wem</Path>
+							<PrefetchSize>4090</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3207324726" Name="amb_fire" ObjectPath="\Events\Default Work Unit\Ambience\amb_fire" MaxAttenuation="25.">
+					<ReferencedStreamedFiles>
+						<File Id="236682652" Language="SFX">
+							<ShortName>sll_amb_fire_loop_01.wav</ShortName>
+							<Path>SFX/sll_amb_fire_loop_01_C3D27408.wem</Path>
+						</File>
+						<File Id="823227951" Language="SFX">
+							<ShortName>sll_amb_fire_loop_02.wav</ShortName>
+							<Path>SFX/sll_amb_fire_loop_02_C3D27408.wem</Path>
+						</File>
+						<File Id="975857309" Language="SFX">
+							<ShortName>sll_amb_fire_loop_03.wav</ShortName>
+							<Path>SFX/sll_amb_fire_loop_03_C3D27408.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="236682652" Language="SFX">
+							<ShortName>sll_amb_fire_loop_01.wav</ShortName>
+							<Path>SFX/sll_amb_fire_loop_01_C3D27408.wem</Path>
+							<PrefetchSize>4517</PrefetchSize>
+						</File>
+						<File Id="823227951" Language="SFX">
+							<ShortName>sll_amb_fire_loop_02.wav</ShortName>
+							<Path>SFX/sll_amb_fire_loop_02_C3D27408.wem</Path>
+							<PrefetchSize>6206</PrefetchSize>
+						</File>
+						<File Id="975857309" Language="SFX">
+							<ShortName>sll_amb_fire_loop_03.wav</ShortName>
+							<Path>SFX/sll_amb_fire_loop_03_C3D27408.wem</Path>
+							<PrefetchSize>5872</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2947845793" Name="amb_horse" ObjectPath="\Events\Default Work Unit\Ambience\amb_horse" MaxAttenuation="20.">
+					<IncludedMemoryFiles>
+						<File Id="758346158" Language="SFX">
+							<ShortName>sll_amb_horse_loop.wav</ShortName>
+							<Path>SFX/sll_amb_horse_loop_8FA32EFE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3830391261" Name="amb_kabuki" ObjectPath="\Events\Default Work Unit\Ambience\amb_kabuki" MaxAttenuation="30.">
+					<IncludedMemoryFiles>
+						<File Id="573995932" Language="SFX">
+							<ShortName>sll_amb_kobuki_theatre.wav</ShortName>
+							<Path>SFX/sll_amb_kobuki_theatre_C3D27408.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2125145056" Name="amb_night" ObjectPath="\Events\Default Work Unit\Ambience\amb_night" MaxAttenuation="30.">
+					<ReferencedStreamedFiles>
+						<File Id="553908615" Language="SFX">
+							<ShortName>sll_amb_night_loop.wav</ShortName>
+							<Path>SFX/sll_amb_night_loop_D79FB2B7.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="553908615" Language="SFX">
+							<ShortName>sll_amb_night_loop.wav</ShortName>
+							<Path>SFX/sll_amb_night_loop_D79FB2B7.wem</Path>
+							<PrefetchSize>19344</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1283954104" Name="amb_night_marketplace" ObjectPath="\Events\Default Work Unit\Ambience\amb_night_marketplace" MaxAttenuation="30.">
+					<IncludedMemoryFiles>
+						<File Id="292517264" Language="SFX">
+							<ShortName>sll_amb_night_marketplace_loop.wav</ShortName>
+							<Path>SFX/sll_amb_night_marketplace_loop_C3D27408.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="433598255" Name="amb_restaurant" ObjectPath="\Events\Default Work Unit\Ambience\amb_restaurant" MaxAttenuation="30.">
+					<ReferencedStreamedFiles>
+						<File Id="82707365" Language="SFX">
+							<ShortName>sll_amb_restaurant_loop.wav</ShortName>
+							<Path>SFX/sll_amb_restaurant_loop_C3D27408.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="82707365" Language="SFX">
+							<ShortName>sll_amb_restaurant_loop.wav</ShortName>
+							<Path>SFX/sll_amb_restaurant_loop_C3D27408.wem</Path>
+							<PrefetchSize>3241</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1708742407" Name="amb_ricefield" ObjectPath="\Events\Default Work Unit\Ambience\amb_ricefield" MaxAttenuation="30.">
+					<ReferencedStreamedFiles>
+						<File Id="735491764" Language="SFX">
+							<ShortName>sll_amb_ricefield_loop.wav</ShortName>
+							<Path>SFX/sll_amb_ricefield_loop_C3D27408.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="735491764" Language="SFX">
+							<ShortName>sll_amb_ricefield_loop.wav</ShortName>
+							<Path>SFX/sll_amb_ricefield_loop_C3D27408.wem</Path>
+							<PrefetchSize>4049</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3935009713" Name="amb_ricefield_winter" ObjectPath="\Events\Default Work Unit\Ambience\amb_ricefield_winter" MaxAttenuation="30.">
+					<ReferencedStreamedFiles>
+						<File Id="72890408" Language="SFX">
+							<ShortName>sll_amb_ricefield_winter_loop.wav</ShortName>
+							<Path>SFX/sll_amb_ricefield_winter_loop_D79FB2B7.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="72890408" Language="SFX">
+							<ShortName>sll_amb_ricefield_winter_loop.wav</ShortName>
+							<Path>SFX/sll_amb_ricefield_winter_loop_D79FB2B7.wem</Path>
+							<PrefetchSize>19344</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="45729008" Name="amb_river" ObjectPath="\Events\Default Work Unit\Ambience\amb_river" MaxAttenuation="45.">
+					<ReferencedStreamedFiles>
+						<File Id="683473903" Language="SFX">
+							<ShortName>sll_amb_river_loop.wav</ShortName>
+							<Path>SFX/sll_amb_river_loop_C3D27408.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="683473903" Language="SFX">
+							<ShortName>sll_amb_river_loop.wav</ShortName>
+							<Path>SFX/sll_amb_river_loop_C3D27408.wem</Path>
+							<PrefetchSize>5921</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="93046195" Name="amb_temple_bell" ObjectPath="\Events\Default Work Unit\Ambience\amb_temple_bell" MaxAttenuation="25.">
+					<IncludedMemoryFiles>
+						<File Id="143306907" Language="SFX">
+							<ShortName>sll_sfx_temple_bell.wav</ShortName>
+							<Path>SFX/sll_sfx_temple_bell_4BB3B825.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1353729446" Name="amb_women_screaming_01" ObjectPath="\Events\Default Work Unit\Ambience\amb_women_screaming_01" MaxAttenuation="20.">
+					<ReferencedStreamedFiles>
+						<File Id="90801689" Language="SFX">
+							<ShortName>sll_amb_women_loop_01.wav</ShortName>
+							<Path>SFX/sll_amb_women_loop_01_C3D27408.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="90801689" Language="SFX">
+							<ShortName>sll_amb_women_loop_01.wav</ShortName>
+							<Path>SFX/sll_amb_women_loop_01_C3D27408.wem</Path>
+							<PrefetchSize>2813</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1353729445" Name="amb_women_screaming_02" ObjectPath="\Events\Default Work Unit\Ambience\amb_women_screaming_02" MaxAttenuation="20.">
+					<ReferencedStreamedFiles>
+						<File Id="607024235" Language="SFX">
+							<ShortName>sll_amb_women_loop_02.wav</ShortName>
+							<Path>SFX/sll_amb_women_loop_02_C3D27408.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="607024235" Language="SFX">
+							<ShortName>sll_amb_women_loop_02.wav</ShortName>
+							<Path>SFX/sll_amb_women_loop_02_C3D27408.wem</Path>
+							<PrefetchSize>3379</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2212241627" Name="ArrowHit" ObjectPath="\Events\Default Work Unit\SFX\ArrowHit" MaxAttenuation="45.">
+					<IncludedMemoryFiles>
+						<File Id="36322618" Language="SFX">
+							<ShortName>sll_sfx_arrow_hit_04.wav</ShortName>
+							<Path>SFX/sll_sfx_arrow_hit_04_10C4C929.wem</Path>
+						</File>
+						<File Id="259033238" Language="SFX">
+							<ShortName>sll_sfx_arrow_hit_06.wav</ShortName>
+							<Path>SFX/sll_sfx_arrow_hit_06_10C4C929.wem</Path>
+						</File>
+						<File Id="280714719" Language="SFX">
+							<ShortName>sll_sfx_arrow_hit_08.wav</ShortName>
+							<Path>SFX/sll_sfx_arrow_hit_08_10C4C929.wem</Path>
+						</File>
+						<File Id="440474925" Language="SFX">
+							<ShortName>sll_sfx_arrow_hit_01.wav</ShortName>
+							<Path>SFX/sll_sfx_arrow_hit_01_10C4C929.wem</Path>
+						</File>
+						<File Id="563340404" Language="SFX">
+							<ShortName>sll_sfx_arrow_hit_05.wav</ShortName>
+							<Path>SFX/sll_sfx_arrow_hit_05_10C4C929.wem</Path>
+						</File>
+						<File Id="966316550" Language="SFX">
+							<ShortName>sll_sfx_arrow_hit_02.wav</ShortName>
+							<Path>SFX/sll_sfx_arrow_hit_02_10C4C929.wem</Path>
+						</File>
+						<File Id="974717590" Language="SFX">
+							<ShortName>sll_sfx_arrow_hit_07.wav</ShortName>
+							<Path>SFX/sll_sfx_arrow_hit_07_10C4C929.wem</Path>
+						</File>
+						<File Id="1071099139" Language="SFX">
+							<ShortName>sll_sfx_arrow_hit_03.wav</ShortName>
+							<Path>SFX/sll_sfx_arrow_hit_03_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="820087945" Name="Bandit_Warning_Enter" ObjectPath="\Events\Default Work Unit\Generic\Bandit_Warning_Enter" MaxAttenuation="0."/>
+				<Event Id="1529681637" Name="Bandit_Warning_Exit" ObjectPath="\Events\Default Work Unit\Generic\Bandit_Warning_Exit">
+					<IncludedMemoryFiles>
+						<File Id="15328541" Language="SFX">
+							<ShortName>sll_vo_panting_10.wav</ShortName>
+							<Path>SFX/sll_vo_panting_10_3F75BDB9.wem</Path>
+						</File>
+						<File Id="33332646" Language="SFX">
+							<ShortName>sll_vo_panting_05.wav</ShortName>
+							<Path>SFX/sll_vo_panting_05_3F75BDB9.wem</Path>
+						</File>
+						<File Id="40003999" Language="SFX">
+							<ShortName>sll_vo_panting_02.wav</ShortName>
+							<Path>SFX/sll_vo_panting_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="81416848" Language="SFX">
+							<ShortName>sll_vo_panting_07.wav</ShortName>
+							<Path>SFX/sll_vo_panting_07_3F75BDB9.wem</Path>
+						</File>
+						<File Id="124873213" Language="SFX">
+							<ShortName>sll_vo_panting_03.wav</ShortName>
+							<Path>SFX/sll_vo_panting_03_3F75BDB9.wem</Path>
+						</File>
+						<File Id="595641431" Language="SFX">
+							<ShortName>sll_vo_panting_04.wav</ShortName>
+							<Path>SFX/sll_vo_panting_04_3F75BDB9.wem</Path>
+						</File>
+						<File Id="640015855" Language="SFX">
+							<ShortName>sll_vo_panting_06.wav</ShortName>
+							<Path>SFX/sll_vo_panting_06_3F75BDB9.wem</Path>
+						</File>
+						<File Id="754074079" Language="SFX">
+							<ShortName>sll_vo_panting_09.wav</ShortName>
+							<Path>SFX/sll_vo_panting_09_3F75BDB9.wem</Path>
+						</File>
+						<File Id="819679481" Language="SFX">
+							<ShortName>sll_vo_panting_08.wav</ShortName>
+							<Path>SFX/sll_vo_panting_08_3F75BDB9.wem</Path>
+						</File>
+						<File Id="926943708" Language="SFX">
+							<ShortName>sll_vo_panting_01.wav</ShortName>
+							<Path>SFX/sll_vo_panting_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2687073255" Name="BanditAttack" ObjectPath="\Events\Default Work Unit\SFX\BanditAttack" MaxAttenuation="20.">
+					<IncludedMemoryFiles>
+						<File Id="400272915" Language="SFX">
+							<ShortName>sll_sfx_bandit_attack_03.wav</ShortName>
+							<Path>SFX/sll_sfx_bandit_attack_03_10C4C929.wem</Path>
+						</File>
+						<File Id="533691292" Language="SFX">
+							<ShortName>sll_sfx_bandit_attack_01.wav</ShortName>
+							<Path>SFX/sll_sfx_bandit_attack_01_10C4C929.wem</Path>
+						</File>
+						<File Id="672203495" Language="SFX">
+							<ShortName>sll_sfx_bandit_attack_02.wav</ShortName>
+							<Path>SFX/sll_sfx_bandit_attack_02_10C4C929.wem</Path>
+						</File>
+						<File Id="796916941" Language="SFX">
+							<ShortName>sll_sfx_bandit_attack_04.wav</ShortName>
+							<Path>SFX/sll_sfx_bandit_attack_04_10C4C929.wem</Path>
+						</File>
+						<File Id="1061010269" Language="SFX">
+							<ShortName>sll_sfx_bandit_attack_05.wav</ShortName>
+							<Path>SFX/sll_sfx_bandit_attack_05_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3856543814" Name="BanditAttackVO" ObjectPath="\Events\Default Work Unit\VO\BanditAttackVO" MaxAttenuation="20.">
+					<IncludedMemoryFiles>
+						<File Id="149564851" Language="SFX">
+							<ShortName>sll_vo_bandit_attack_05.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_attack_05_3F75BDB9.wem</Path>
+						</File>
+						<File Id="312549145" Language="SFX">
+							<ShortName>sll_vo_bandit_attack_01.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_attack_01_3F75BDB9.wem</Path>
+						</File>
+						<File Id="324535273" Language="SFX">
+							<ShortName>sll_vo_bandit_attack_02.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_attack_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="431620306" Language="SFX">
+							<ShortName>sll_vo_bandit_attack_07.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_attack_07_3F75BDB9.wem</Path>
+						</File>
+						<File Id="461497516" Language="SFX">
+							<ShortName>sll_vo_bandit_attack_03.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_attack_03_3F75BDB9.wem</Path>
+						</File>
+						<File Id="657484363" Language="SFX">
+							<ShortName>sll_vo_bandit_attack_06.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_attack_06_3F75BDB9.wem</Path>
+						</File>
+						<File Id="925929271" Language="SFX">
+							<ShortName>sll_vo_bandit_attack_04.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_attack_04_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1035573956" Language="SFX">
+							<ShortName>sll_vo_bandit_attack_08.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_attack_08_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="818003163" Name="BanditDyingVO" ObjectPath="\Events\Default Work Unit\VO\BanditDyingVO" MaxAttenuation="45.">
+					<IncludedMemoryFiles>
+						<File Id="545392015" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_04.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_04_3F75BDB9.wem</Path>
+						</File>
+						<File Id="591534624" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_06.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_06_3F75BDB9.wem</Path>
+						</File>
+						<File Id="722850495" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_05.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_05_3F75BDB9.wem</Path>
+						</File>
+						<File Id="731459816" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_02.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="740902111" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_01.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_01_3F75BDB9.wem</Path>
+						</File>
+						<File Id="757540377" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_03.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_03_3F75BDB9.wem</Path>
+						</File>
+						<File Id="946719799" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_07.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_07_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2690533778" Name="BowRelease" ObjectPath="\Events\Default Work Unit\SFX\BowRelease" MaxAttenuation="5.">
+					<IncludedMemoryFiles>
+						<File Id="177605844" Language="SFX">
+							<ShortName>sll_sfx_bow_release_03.wav</ShortName>
+							<Path>SFX/sll_sfx_bow_release_03_4BB3B825.wem</Path>
+						</File>
+						<File Id="241776501" Language="SFX">
+							<ShortName>sll_sfx_bow_release_08.wav</ShortName>
+							<Path>SFX/sll_sfx_bow_release_08_4BB3B825.wem</Path>
+						</File>
+						<File Id="303009694" Language="SFX">
+							<ShortName>sll_sfx_bow_release_05.wav</ShortName>
+							<Path>SFX/sll_sfx_bow_release_05_4BB3B825.wem</Path>
+						</File>
+						<File Id="376271501" Language="SFX">
+							<ShortName>sll_sfx_bow_release_01.wav</ShortName>
+							<Path>SFX/sll_sfx_bow_release_01_4BB3B825.wem</Path>
+						</File>
+						<File Id="788084272" Language="SFX">
+							<ShortName>sll_sfx_bow_release_02.wav</ShortName>
+							<Path>SFX/sll_sfx_bow_release_02_4BB3B825.wem</Path>
+						</File>
+						<File Id="789417748" Language="SFX">
+							<ShortName>sll_sfx_bow_release_06.wav</ShortName>
+							<Path>SFX/sll_sfx_bow_release_06_4BB3B825.wem</Path>
+						</File>
+						<File Id="828203423" Language="SFX">
+							<ShortName>sll_sfx_bow_release_04.wav</ShortName>
+							<Path>SFX/sll_sfx_bow_release_04_4BB3B825.wem</Path>
+						</File>
+						<File Id="941774758" Language="SFX">
+							<ShortName>sll_sfx_bow_release_07.wav</ShortName>
+							<Path>SFX/sll_sfx_bow_release_07_4BB3B825.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="646456091" Name="DojoChildrenVO" ObjectPath="\Events\Default Work Unit\VO\DojoChildrenVO" MaxAttenuation="15.">
+					<IncludedMemoryFiles>
+						<File Id="244715299" Language="SFX">
+							<ShortName>sll_vo_dojo_children_05.wav</ShortName>
+							<Path>SFX/sll_vo_dojo_children_05_3F75BDB9.wem</Path>
+						</File>
+						<File Id="253773130" Language="SFX">
+							<ShortName>sll_vo_dojo_children_09.wav</ShortName>
+							<Path>SFX/sll_vo_dojo_children_09_3F75BDB9.wem</Path>
+						</File>
+						<File Id="634083470" Language="SFX">
+							<ShortName>sll_vo_dojo_children_01.wav</ShortName>
+							<Path>SFX/sll_vo_dojo_children_01_3F75BDB9.wem</Path>
+						</File>
+						<File Id="694520507" Language="SFX">
+							<ShortName>sll_vo_dojo_children_08.wav</ShortName>
+							<Path>SFX/sll_vo_dojo_children_08_3F75BDB9.wem</Path>
+						</File>
+						<File Id="694921146" Language="SFX">
+							<ShortName>sll_vo_dojo_children_06.wav</ShortName>
+							<Path>SFX/sll_vo_dojo_children_06_3F75BDB9.wem</Path>
+						</File>
+						<File Id="964443625" Language="SFX">
+							<ShortName>sll_vo_dojo_children_04.wav</ShortName>
+							<Path>SFX/sll_vo_dojo_children_04_3F75BDB9.wem</Path>
+						</File>
+						<File Id="976665425" Language="SFX">
+							<ShortName>sll_vo_dojo_children_02.wav</ShortName>
+							<Path>SFX/sll_vo_dojo_children_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1071177429" Language="SFX">
+							<ShortName>sll_vo_dojo_children_03.wav</ShortName>
+							<Path>SFX/sll_vo_dojo_children_03_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2047892422" Name="DojoHit" ObjectPath="\Events\Default Work Unit\SFX\DojoHit" MaxAttenuation="15.">
+					<IncludedMemoryFiles>
+						<File Id="21880675" Language="SFX">
+							<ShortName>sll_sfx_dojo_hit_04.wav</ShortName>
+							<Path>SFX/sll_sfx_dojo_hit_04_4BB3B825.wem</Path>
+						</File>
+						<File Id="174039056" Language="SFX">
+							<ShortName>sll_sfx_dojo_hit_06.wav</ShortName>
+							<Path>SFX/sll_sfx_dojo_hit_06_4BB3B825.wem</Path>
+						</File>
+						<File Id="421321544" Language="SFX">
+							<ShortName>sll_sfx_dojo_hit_01.wav</ShortName>
+							<Path>SFX/sll_sfx_dojo_hit_01_4BB3B825.wem</Path>
+						</File>
+						<File Id="649697656" Language="SFX">
+							<ShortName>sll_sfx_dojo_hit_07.wav</ShortName>
+							<Path>SFX/sll_sfx_dojo_hit_07_4BB3B825.wem</Path>
+						</File>
+						<File Id="712699392" Language="SFX">
+							<ShortName>sll_sfx_dojo_hit_03.wav</ShortName>
+							<Path>SFX/sll_sfx_dojo_hit_03_4BB3B825.wem</Path>
+						</File>
+						<File Id="946879197" Language="SFX">
+							<ShortName>sll_sfx_dojo_hit_08.wav</ShortName>
+							<Path>SFX/sll_sfx_dojo_hit_08_4BB3B825.wem</Path>
+						</File>
+						<File Id="984662378" Language="SFX">
+							<ShortName>sll_sfx_dojo_hit_02.wav</ShortName>
+							<Path>SFX/sll_sfx_dojo_hit_02_4BB3B825.wem</Path>
+						</File>
+						<File Id="1071429415" Language="SFX">
+							<ShortName>sll_sfx_dojo_hit_05.wav</ShortName>
+							<Path>SFX/sll_sfx_dojo_hit_05_4BB3B825.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1945892969" Name="DojoPunch" ObjectPath="\Events\Default Work Unit\SFX\DojoPunch" MaxAttenuation="20.">
+					<IncludedMemoryFiles>
+						<File Id="167992971" Language="SFX">
+							<ShortName>sll_sfx_dojo_punch_03.wav</ShortName>
+							<Path>SFX/sll_sfx_dojo_punch_03_4BB3B825.wem</Path>
+						</File>
+						<File Id="293537017" Language="SFX">
+							<ShortName>sll_sfx_dojo_punch_05.wav</ShortName>
+							<Path>SFX/sll_sfx_dojo_punch_05_4BB3B825.wem</Path>
+						</File>
+						<File Id="331619107" Language="SFX">
+							<ShortName>sll_sfx_dojo_punch_04.wav</ShortName>
+							<Path>SFX/sll_sfx_dojo_punch_04_4BB3B825.wem</Path>
+						</File>
+						<File Id="457915061" Language="SFX">
+							<ShortName>sll_sfx_dojo_punch_02.wav</ShortName>
+							<Path>SFX/sll_sfx_dojo_punch_02_4BB3B825.wem</Path>
+						</File>
+						<File Id="854368718" Language="SFX">
+							<ShortName>sll_sfx_dojo_punch_01.wav</ShortName>
+							<Path>SFX/sll_sfx_dojo_punch_01_4BB3B825.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1866025847" Name="Footstep" ObjectPath="\Events\Default Work Unit\Generic\Footstep">
+					<IncludedMemoryFiles>
+						<File Id="29315190" Language="SFX">
+							<ShortName>sll_sfx_footstep_03.wav</ShortName>
+							<Path>SFX/sll_sfx_footstep_03_4BB3B825.wem</Path>
+						</File>
+						<File Id="227914257" Language="SFX">
+							<ShortName>sll_sfx_footstep_02.wav</ShortName>
+							<Path>SFX/sll_sfx_footstep_02_4BB3B825.wem</Path>
+						</File>
+						<File Id="386561186" Language="SFX">
+							<ShortName>sll_sfx_footstep_01.wav</ShortName>
+							<Path>SFX/sll_sfx_footstep_01_4BB3B825.wem</Path>
+						</File>
+						<File Id="415283509" Language="SFX">
+							<ShortName>sll_sfx_footstep_05.wav</ShortName>
+							<Path>SFX/sll_sfx_footstep_05_4BB3B825.wem</Path>
+						</File>
+						<File Id="703234153" Language="SFX">
+							<ShortName>sll_sfx_footstep_04.wav</ShortName>
+							<Path>SFX/sll_sfx_footstep_04_4BB3B825.wem</Path>
+						</File>
+						<File Id="784623148" Language="SFX">
+							<ShortName>sll_sfx_footstep_06.wav</ShortName>
+							<Path>SFX/sll_sfx_footstep_06_4BB3B825.wem</Path>
+						</File>
+						<File Id="862520085" Language="SFX">
+							<ShortName>sll_sfx_footstep_07.wav</ShortName>
+							<Path>SFX/sll_sfx_footstep_07_4BB3B825.wem</Path>
+						</File>
+						<File Id="930485525" Language="SFX">
+							<ShortName>sll_sfx_footstep_08.wav</ShortName>
+							<Path>SFX/sll_sfx_footstep_08_4BB3B825.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="108724846" Name="Horse_VO" ObjectPath="\Events\Default Work Unit\VO\Horse_VO">
+					<IncludedMemoryFiles>
+						<File Id="10862313" Language="SFX">
+							<ShortName>sll_vo_horse_neigh_06.wav</ShortName>
+							<Path>SFX/sll_vo_horse_neigh_06_3F75BDB9.wem</Path>
+						</File>
+						<File Id="198753118" Language="SFX">
+							<ShortName>sll_vo_horse_neigh_04.wav</ShortName>
+							<Path>SFX/sll_vo_horse_neigh_04_3F75BDB9.wem</Path>
+						</File>
+						<File Id="334065398" Language="SFX">
+							<ShortName>sll_vo_horse_neigh_03.wav</ShortName>
+							<Path>SFX/sll_vo_horse_neigh_03_3F75BDB9.wem</Path>
+						</File>
+						<File Id="346697301" Language="SFX">
+							<ShortName>sll_vo_horse_neigh_05.wav</ShortName>
+							<Path>SFX/sll_vo_horse_neigh_05_3F75BDB9.wem</Path>
+						</File>
+						<File Id="393517894" Language="SFX">
+							<ShortName>sll_vo_horse_neigh_01.wav</ShortName>
+							<Path>SFX/sll_vo_horse_neigh_01_3F75BDB9.wem</Path>
+						</File>
+						<File Id="538118541" Language="SFX">
+							<ShortName>sll_vo_horse_neigh_07.wav</ShortName>
+							<Path>SFX/sll_vo_horse_neigh_07_3F75BDB9.wem</Path>
+						</File>
+						<File Id="560668916" Language="SFX">
+							<ShortName>sll_vo_horse_neigh_02.wav</ShortName>
+							<Path>SFX/sll_vo_horse_neigh_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="972321637" Language="SFX">
+							<ShortName>sll_vo_horse_neigh_08.wav</ShortName>
+							<Path>SFX/sll_vo_horse_neigh_08_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1936873938" Name="HorseFootstep" ObjectPath="\Events\Default Work Unit\SFX\HorseFootstep">
+					<IncludedMemoryFiles>
+						<File Id="58320942" Language="SFX">
+							<ShortName>sll_sfx_horse_footstep_01.wav</ShortName>
+							<Path>SFX/sll_sfx_horse_footstep_01_4BB3B825.wem</Path>
+						</File>
+						<File Id="103674803" Language="SFX">
+							<ShortName>sll_sfx_horse_footstep_04.wav</ShortName>
+							<Path>SFX/sll_sfx_horse_footstep_04_4BB3B825.wem</Path>
+						</File>
+						<File Id="162310413" Language="SFX">
+							<ShortName>sll_sfx_horse_footstep_03.wav</ShortName>
+							<Path>SFX/sll_sfx_horse_footstep_03_4BB3B825.wem</Path>
+						</File>
+						<File Id="186569485" Language="SFX">
+							<ShortName>sll_sfx_horse_footstep_10.wav</ShortName>
+							<Path>SFX/sll_sfx_horse_footstep_10_4BB3B825.wem</Path>
+						</File>
+						<File Id="233640006" Language="SFX">
+							<ShortName>sll_sfx_horse_footstep_02.wav</ShortName>
+							<Path>SFX/sll_sfx_horse_footstep_02_4BB3B825.wem</Path>
+						</File>
+						<File Id="262951507" Language="SFX">
+							<ShortName>sll_sfx_horse_footstep_06.wav</ShortName>
+							<Path>SFX/sll_sfx_horse_footstep_06_4BB3B825.wem</Path>
+						</File>
+						<File Id="411521285" Language="SFX">
+							<ShortName>sll_sfx_horse_footstep_05.wav</ShortName>
+							<Path>SFX/sll_sfx_horse_footstep_05_4BB3B825.wem</Path>
+						</File>
+						<File Id="414372928" Language="SFX">
+							<ShortName>sll_sfx_horse_footstep_09.wav</ShortName>
+							<Path>SFX/sll_sfx_horse_footstep_09_4BB3B825.wem</Path>
+						</File>
+						<File Id="528647565" Language="SFX">
+							<ShortName>sll_sfx_horse_footstep_08.wav</ShortName>
+							<Path>SFX/sll_sfx_horse_footstep_08_4BB3B825.wem</Path>
+						</File>
+						<File Id="1014412846" Language="SFX">
+							<ShortName>sll_sfx_horse_footstep_07.wav</ShortName>
+							<Path>SFX/sll_sfx_horse_footstep_07_4BB3B825.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3293087162" Name="Intro1" ObjectPath="\Events\Default Work Unit\Music\Intro1">
+					<IncludedMemoryFiles>
+						<File Id="203946337" Language="SFX">
+							<ShortName>bgm_cs_intro1_bpm52_PM1.wav</ShortName>
+							<Path>SFX/bgm_cs_intro1_bpm52_PM1_179463A7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3293087161" Name="Intro2" ObjectPath="\Events\Default Work Unit\Music\Intro2">
+					<IncludedMemoryFiles>
+						<File Id="824333443" Language="SFX">
+							<ShortName>bgm_cs_intro2_bpm64_PM1.wav</ShortName>
+							<Path>SFX/bgm_cs_intro2_bpm64_PM1_179463A7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3293087160" Name="Intro3" ObjectPath="\Events\Default Work Unit\Music\Intro3">
+					<IncludedMemoryFiles>
+						<File Id="892504036" Language="SFX">
+							<ShortName>bgm_cs_intro3_bpm52_PM1.wav</ShortName>
+							<Path>SFX/bgm_cs_intro3_bpm52_PM1_179463A7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3293087167" Name="Intro4" ObjectPath="\Events\Default Work Unit\Music\Intro4">
+					<IncludedMemoryFiles>
+						<File Id="66366484" Language="SFX">
+							<ShortName>bgm_cs_intro4_bpm52_PM1.wav</ShortName>
+							<Path>SFX/bgm_cs_intro4_bpm52_PM1_179463A7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3293087166" Name="Intro5" ObjectPath="\Events\Default Work Unit\Music\Intro5">
+					<IncludedMemoryFiles>
+						<File Id="947672694" Language="SFX">
+							<ShortName>bgm_cs_intro5_bpm58_PM1.wav</ShortName>
+							<Path>SFX/bgm_cs_intro5_bpm58_PM1_179463A7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1683734890" Name="Letter1" ObjectPath="\Events\Default Work Unit\VO\Letter1">
+					<IncludedMemoryFiles>
+						<File Id="742581987" Language="SFX">
+							<ShortName>sll_vo_letter_01.wav</ShortName>
+							<Path>SFX/sll_vo_letter_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1683734889" Name="Letter2" ObjectPath="\Events\Default Work Unit\VO\Letter2">
+					<IncludedMemoryFiles>
+						<File Id="848313643" Language="SFX">
+							<ShortName>sll_vo_letter_02.wav</ShortName>
+							<Path>SFX/sll_vo_letter_02_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1683734888" Name="Letter3" ObjectPath="\Events\Default Work Unit\VO\Letter3">
+					<IncludedMemoryFiles>
+						<File Id="517920300" Language="SFX">
+							<ShortName>sll_vo_letter_03.wav</ShortName>
+							<Path>SFX/sll_vo_letter_03_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1683734895" Name="Letter4" ObjectPath="\Events\Default Work Unit\VO\Letter4">
+					<IncludedMemoryFiles>
+						<File Id="385452051" Language="SFX">
+							<ShortName>sll_vo_letter_04.wav</ShortName>
+							<Path>SFX/sll_vo_letter_04_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1683734894" Name="Letter5" ObjectPath="\Events\Default Work Unit\VO\Letter5">
+					<IncludedMemoryFiles>
+						<File Id="952127044" Language="SFX">
+							<ShortName>sll_vo_letter_05.wav</ShortName>
+							<Path>SFX/sll_vo_letter_05_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3991942870" Name="Music" ObjectPath="\Events\Default Work Unit\Music\Music">
+					<ReferencedStreamedFiles>
+						<File Id="46382331" Language="SFX">
+							<ShortName>bgm_act3_explore_bpm68_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act3_explore_bpm68_4-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="101625255" Language="SFX">
+							<ShortName>bgm_act3_intense_bpm74_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act3_intense_bpm74_4-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="339805535" Language="SFX">
+							<ShortName>bgm_act3_intro_bpm60_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act3_intro_bpm60_4-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="780241273" Language="SFX">
+							<ShortName>bgm_act3_transition_bpm74_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act3_transition_bpm74_4-4_PM1_43F63D03.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="131518631" Language="SFX">
+							<ShortName>bgm_act2_loop_bpm60_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act2_loop_bpm60_4-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="460253391" Language="SFX">
+							<ShortName>bgm_act2_intro_bpm60_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act2_intro_bpm60_4-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="551694460" Language="SFX">
+							<ShortName>bgm_act2_lowend_bpm60_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act2_lowend_bpm60_4-4_PM1_43F63D03.wem</Path>
+						</File>
+						<File Id="594093484" Language="SFX">
+							<ShortName>bgm_act2_highend_bpm60_4-4_PM1.wav</ShortName>
+							<Path>SFX/bgm_act2_highend_bpm60_4-4_PM1_43F63D03.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3227181061" Name="Music_Stop" ObjectPath="\Events\Default Work Unit\Music\Music_Stop" MaxAttenuation="0."/>
+				<Event Id="3930794392" Name="Quit" ObjectPath="\Events\Default Work Unit\UI\Quit"/>
+				<Event Id="29906311" Name="RikaPanting" ObjectPath="\Events\Default Work Unit\VO\RikaPanting">
+					<IncludedMemoryFiles>
+						<File Id="15328541" Language="SFX">
+							<ShortName>sll_vo_panting_10.wav</ShortName>
+							<Path>SFX/sll_vo_panting_10_3F75BDB9.wem</Path>
+						</File>
+						<File Id="33332646" Language="SFX">
+							<ShortName>sll_vo_panting_05.wav</ShortName>
+							<Path>SFX/sll_vo_panting_05_3F75BDB9.wem</Path>
+						</File>
+						<File Id="40003999" Language="SFX">
+							<ShortName>sll_vo_panting_02.wav</ShortName>
+							<Path>SFX/sll_vo_panting_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="81416848" Language="SFX">
+							<ShortName>sll_vo_panting_07.wav</ShortName>
+							<Path>SFX/sll_vo_panting_07_3F75BDB9.wem</Path>
+						</File>
+						<File Id="124873213" Language="SFX">
+							<ShortName>sll_vo_panting_03.wav</ShortName>
+							<Path>SFX/sll_vo_panting_03_3F75BDB9.wem</Path>
+						</File>
+						<File Id="595641431" Language="SFX">
+							<ShortName>sll_vo_panting_04.wav</ShortName>
+							<Path>SFX/sll_vo_panting_04_3F75BDB9.wem</Path>
+						</File>
+						<File Id="640015855" Language="SFX">
+							<ShortName>sll_vo_panting_06.wav</ShortName>
+							<Path>SFX/sll_vo_panting_06_3F75BDB9.wem</Path>
+						</File>
+						<File Id="754074079" Language="SFX">
+							<ShortName>sll_vo_panting_09.wav</ShortName>
+							<Path>SFX/sll_vo_panting_09_3F75BDB9.wem</Path>
+						</File>
+						<File Id="819679481" Language="SFX">
+							<ShortName>sll_vo_panting_08.wav</ShortName>
+							<Path>SFX/sll_vo_panting_08_3F75BDB9.wem</Path>
+						</File>
+						<File Id="926943708" Language="SFX">
+							<ShortName>sll_vo_panting_01.wav</ShortName>
+							<Path>SFX/sll_vo_panting_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1281810935" Name="Start" ObjectPath="\Events\Default Work Unit\UI\Start"/>
+				<Event Id="1303726608" Name="Stop_children_amb" ObjectPath="\Events\Default Work Unit\Generic\Stop_children_amb" MaxAttenuation="0."/>
+				<Event Id="2904546416" Name="Stop_Event" ObjectPath="\Events\Default Work Unit\Generic\Stop_Event" MaxAttenuation="0."/>
+				<Event Id="1676744199" Name="Stop_Kabuki" ObjectPath="\Events\Default Work Unit\Generic\Stop_Kabuki" MaxAttenuation="0."/>
+				<Event Id="521639175" Name="VillagerDyingVO" ObjectPath="\Events\Default Work Unit\VO\VillagerDyingVO" MaxAttenuation="25.">
+					<IncludedMemoryFiles>
+						<File Id="545392015" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_04.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_04_3F75BDB9.wem</Path>
+						</File>
+						<File Id="591534624" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_06.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_06_3F75BDB9.wem</Path>
+						</File>
+						<File Id="722850495" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_05.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_05_3F75BDB9.wem</Path>
+						</File>
+						<File Id="731459816" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_02.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="740902111" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_01.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_01_3F75BDB9.wem</Path>
+						</File>
+						<File Id="757540377" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_03.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_03_3F75BDB9.wem</Path>
+						</File>
+						<File Id="946719799" Language="SFX">
+							<ShortName>sll_vo_bandit_dying_07.wav</ShortName>
+							<Path>SFX/sll_vo_bandit_dying_07_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<IncludedAuxBusses>
+				<AuxBus Id="85412153" Name="Ambience" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Sound\Ambience"/>
+				<AuxBus Id="393239870" Name="SFX" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Sound\SFX"/>
+				<AuxBus Id="1534528548" Name="VO" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Sound\VO"/>
+				<AuxBus Id="1551306167" Name="UI" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Sound\UI"/>
+			</IncludedAuxBusses>
+			<ReferencedStreamedFiles>
+				<File Id="46382331"/>
+				<File Id="72890408"/>
+				<File Id="82707365"/>
+				<File Id="90801689"/>
+				<File Id="101625255"/>
+				<File Id="168695318"/>
+				<File Id="190160899"/>
+				<File Id="192607623"/>
+				<File Id="236682652"/>
+				<File Id="251305677"/>
+				<File Id="281462136"/>
+				<File Id="322082453"/>
+				<File Id="339805535"/>
+				<File Id="507842725"/>
+				<File Id="553908615"/>
+				<File Id="607024235"/>
+				<File Id="683473903"/>
+				<File Id="735491764"/>
+				<File Id="780241273"/>
+				<File Id="823227951"/>
+				<File Id="843207996"/>
+				<File Id="975857309"/>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="10862313" Language="SFX">
+					<ShortName>sll_vo_horse_neigh_06.wav</ShortName>
+					<Path>SFX/sll_vo_horse_neigh_06_3F75BDB9.wem</Path>
+				</File>
+				<File Id="15328541" Language="SFX">
+					<ShortName>sll_vo_panting_10.wav</ShortName>
+					<Path>SFX/sll_vo_panting_10_3F75BDB9.wem</Path>
+				</File>
+				<File Id="21880675" Language="SFX">
+					<ShortName>sll_sfx_dojo_hit_04.wav</ShortName>
+					<Path>SFX/sll_sfx_dojo_hit_04_4BB3B825.wem</Path>
+				</File>
+				<File Id="29315190" Language="SFX">
+					<ShortName>sll_sfx_footstep_03.wav</ShortName>
+					<Path>SFX/sll_sfx_footstep_03_4BB3B825.wem</Path>
+				</File>
+				<File Id="33332646" Language="SFX">
+					<ShortName>sll_vo_panting_05.wav</ShortName>
+					<Path>SFX/sll_vo_panting_05_3F75BDB9.wem</Path>
+				</File>
+				<File Id="36322618" Language="SFX">
+					<ShortName>sll_sfx_arrow_hit_04.wav</ShortName>
+					<Path>SFX/sll_sfx_arrow_hit_04_10C4C929.wem</Path>
+				</File>
+				<File Id="40003999" Language="SFX">
+					<ShortName>sll_vo_panting_02.wav</ShortName>
+					<Path>SFX/sll_vo_panting_02_3F75BDB9.wem</Path>
+				</File>
+				<File Id="53916401" Language="SFX">
+					<ShortName>sll_ui_quit.wav</ShortName>
+					<Path>SFX/sll_ui_quit_4BB3B825.wem</Path>
+				</File>
+				<File Id="58320942" Language="SFX">
+					<ShortName>sll_sfx_horse_footstep_01.wav</ShortName>
+					<Path>SFX/sll_sfx_horse_footstep_01_4BB3B825.wem</Path>
+				</File>
+				<File Id="72890408" Language="SFX">
+					<ShortName>sll_amb_ricefield_winter_loop.wav</ShortName>
+					<Path>SFX/sll_amb_ricefield_winter_loop_D79FB2B7.wem</Path>
+					<PrefetchSize>19344</PrefetchSize>
+				</File>
+				<File Id="81416848" Language="SFX">
+					<ShortName>sll_vo_panting_07.wav</ShortName>
+					<Path>SFX/sll_vo_panting_07_3F75BDB9.wem</Path>
+				</File>
+				<File Id="82707365" Language="SFX">
+					<ShortName>sll_amb_restaurant_loop.wav</ShortName>
+					<Path>SFX/sll_amb_restaurant_loop_C3D27408.wem</Path>
+					<PrefetchSize>3241</PrefetchSize>
+				</File>
+				<File Id="90801689" Language="SFX">
+					<ShortName>sll_amb_women_loop_01.wav</ShortName>
+					<Path>SFX/sll_amb_women_loop_01_C3D27408.wem</Path>
+					<PrefetchSize>2813</PrefetchSize>
+				</File>
+				<File Id="103674803" Language="SFX">
+					<ShortName>sll_sfx_horse_footstep_04.wav</ShortName>
+					<Path>SFX/sll_sfx_horse_footstep_04_4BB3B825.wem</Path>
+				</File>
+				<File Id="124873213" Language="SFX">
+					<ShortName>sll_vo_panting_03.wav</ShortName>
+					<Path>SFX/sll_vo_panting_03_3F75BDB9.wem</Path>
+				</File>
+				<File Id="131518631" Language="SFX">
+					<ShortName>bgm_act2_loop_bpm60_4-4_PM1.wav</ShortName>
+					<Path>SFX/bgm_act2_loop_bpm60_4-4_PM1_43F63D03.wem</Path>
+				</File>
+				<File Id="137004032" Language="SFX">
+					<ShortName>sll_amb_day_battle_loop_01.wav</ShortName>
+					<Path>SFX/sll_amb_day_battle_loop_01_C3D27408.wem</Path>
+				</File>
+				<File Id="143306907" Language="SFX">
+					<ShortName>sll_sfx_temple_bell.wav</ShortName>
+					<Path>SFX/sll_sfx_temple_bell_4BB3B825.wem</Path>
+				</File>
+				<File Id="149564851" Language="SFX">
+					<ShortName>sll_vo_bandit_attack_05.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_attack_05_3F75BDB9.wem</Path>
+				</File>
+				<File Id="162310413" Language="SFX">
+					<ShortName>sll_sfx_horse_footstep_03.wav</ShortName>
+					<Path>SFX/sll_sfx_horse_footstep_03_4BB3B825.wem</Path>
+				</File>
+				<File Id="167992971" Language="SFX">
+					<ShortName>sll_sfx_dojo_punch_03.wav</ShortName>
+					<Path>SFX/sll_sfx_dojo_punch_03_4BB3B825.wem</Path>
+				</File>
+				<File Id="168695318" Language="SFX">
+					<ShortName>sll_amb_entertainment_loop.wav</ShortName>
+					<Path>SFX/sll_amb_entertainment_loop_C3D27408.wem</Path>
+					<PrefetchSize>4090</PrefetchSize>
+				</File>
+				<File Id="174039056" Language="SFX">
+					<ShortName>sll_sfx_dojo_hit_06.wav</ShortName>
+					<Path>SFX/sll_sfx_dojo_hit_06_4BB3B825.wem</Path>
+				</File>
+				<File Id="177605844" Language="SFX">
+					<ShortName>sll_sfx_bow_release_03.wav</ShortName>
+					<Path>SFX/sll_sfx_bow_release_03_4BB3B825.wem</Path>
+				</File>
+				<File Id="186569485" Language="SFX">
+					<ShortName>sll_sfx_horse_footstep_10.wav</ShortName>
+					<Path>SFX/sll_sfx_horse_footstep_10_4BB3B825.wem</Path>
+				</File>
+				<File Id="190160899" Language="SFX">
+					<ShortName>sll_amb_baby_crying_loop.wav</ShortName>
+					<Path>SFX/sll_amb_baby_crying_loop_C3D27408.wem</Path>
+					<PrefetchSize>3467</PrefetchSize>
+				</File>
+				<File Id="192607623" Language="SFX">
+					<ShortName>sll_vo_bandit_chasing_loop.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_chasing_loop_C3D27408.wem</Path>
+					<PrefetchSize>4859</PrefetchSize>
+				</File>
+				<File Id="198753118" Language="SFX">
+					<ShortName>sll_vo_horse_neigh_04.wav</ShortName>
+					<Path>SFX/sll_vo_horse_neigh_04_3F75BDB9.wem</Path>
+				</File>
+				<File Id="216306333" Language="SFX">
+					<ShortName>sll_ui_start.wav</ShortName>
+					<Path>SFX/sll_ui_start_4BB3B825.wem</Path>
+				</File>
+				<File Id="227914257" Language="SFX">
+					<ShortName>sll_sfx_footstep_02.wav</ShortName>
+					<Path>SFX/sll_sfx_footstep_02_4BB3B825.wem</Path>
+				</File>
+				<File Id="233640006" Language="SFX">
+					<ShortName>sll_sfx_horse_footstep_02.wav</ShortName>
+					<Path>SFX/sll_sfx_horse_footstep_02_4BB3B825.wem</Path>
+				</File>
+				<File Id="236682652" Language="SFX">
+					<ShortName>sll_amb_fire_loop_01.wav</ShortName>
+					<Path>SFX/sll_amb_fire_loop_01_C3D27408.wem</Path>
+					<PrefetchSize>4517</PrefetchSize>
+				</File>
+				<File Id="241776501" Language="SFX">
+					<ShortName>sll_sfx_bow_release_08.wav</ShortName>
+					<Path>SFX/sll_sfx_bow_release_08_4BB3B825.wem</Path>
+				</File>
+				<File Id="244715299" Language="SFX">
+					<ShortName>sll_vo_dojo_children_05.wav</ShortName>
+					<Path>SFX/sll_vo_dojo_children_05_3F75BDB9.wem</Path>
+				</File>
+				<File Id="251305677" Language="SFX">
+					<ShortName>sll_amb_day_winter_loop.wav</ShortName>
+					<Path>SFX/sll_amb_day_winter_loop_D79FB2B7.wem</Path>
+					<PrefetchSize>19344</PrefetchSize>
+				</File>
+				<File Id="253773130" Language="SFX">
+					<ShortName>sll_vo_dojo_children_09.wav</ShortName>
+					<Path>SFX/sll_vo_dojo_children_09_3F75BDB9.wem</Path>
+				</File>
+				<File Id="259033238" Language="SFX">
+					<ShortName>sll_sfx_arrow_hit_06.wav</ShortName>
+					<Path>SFX/sll_sfx_arrow_hit_06_10C4C929.wem</Path>
+				</File>
+				<File Id="262951507" Language="SFX">
+					<ShortName>sll_sfx_horse_footstep_06.wav</ShortName>
+					<Path>SFX/sll_sfx_horse_footstep_06_4BB3B825.wem</Path>
+				</File>
+				<File Id="280714719" Language="SFX">
+					<ShortName>sll_sfx_arrow_hit_08.wav</ShortName>
+					<Path>SFX/sll_sfx_arrow_hit_08_10C4C929.wem</Path>
+				</File>
+				<File Id="281462136" Language="SFX">
+					<ShortName>sll_amb_crowd_escaping_loop.wav</ShortName>
+					<Path>SFX/sll_amb_crowd_escaping_loop_C3D27408.wem</Path>
+					<PrefetchSize>3168</PrefetchSize>
+				</File>
+				<File Id="292517264" Language="SFX">
+					<ShortName>sll_amb_night_marketplace_loop.wav</ShortName>
+					<Path>SFX/sll_amb_night_marketplace_loop_C3D27408.wem</Path>
+				</File>
+				<File Id="293537017" Language="SFX">
+					<ShortName>sll_sfx_dojo_punch_05.wav</ShortName>
+					<Path>SFX/sll_sfx_dojo_punch_05_4BB3B825.wem</Path>
+				</File>
+				<File Id="303009694" Language="SFX">
+					<ShortName>sll_sfx_bow_release_05.wav</ShortName>
+					<Path>SFX/sll_sfx_bow_release_05_4BB3B825.wem</Path>
+				</File>
+				<File Id="312549145" Language="SFX">
+					<ShortName>sll_vo_bandit_attack_01.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_attack_01_3F75BDB9.wem</Path>
+				</File>
+				<File Id="322082453" Language="SFX">
+					<ShortName>sll_amb_dojo_training_loop.wav</ShortName>
+					<Path>SFX/sll_amb_dojo_training_loop_C3D27408.wem</Path>
+					<PrefetchSize>3231</PrefetchSize>
+				</File>
+				<File Id="324535273" Language="SFX">
+					<ShortName>sll_vo_bandit_attack_02.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_attack_02_3F75BDB9.wem</Path>
+				</File>
+				<File Id="331619107" Language="SFX">
+					<ShortName>sll_sfx_dojo_punch_04.wav</ShortName>
+					<Path>SFX/sll_sfx_dojo_punch_04_4BB3B825.wem</Path>
+				</File>
+				<File Id="334065398" Language="SFX">
+					<ShortName>sll_vo_horse_neigh_03.wav</ShortName>
+					<Path>SFX/sll_vo_horse_neigh_03_3F75BDB9.wem</Path>
+				</File>
+				<File Id="346697301" Language="SFX">
+					<ShortName>sll_vo_horse_neigh_05.wav</ShortName>
+					<Path>SFX/sll_vo_horse_neigh_05_3F75BDB9.wem</Path>
+				</File>
+				<File Id="376271501" Language="SFX">
+					<ShortName>sll_sfx_bow_release_01.wav</ShortName>
+					<Path>SFX/sll_sfx_bow_release_01_4BB3B825.wem</Path>
+				</File>
+				<File Id="385452051" Language="SFX">
+					<ShortName>sll_vo_letter_04.wav</ShortName>
+					<Path>SFX/sll_vo_letter_04_3F75BDB9.wem</Path>
+				</File>
+				<File Id="386561186" Language="SFX">
+					<ShortName>sll_sfx_footstep_01.wav</ShortName>
+					<Path>SFX/sll_sfx_footstep_01_4BB3B825.wem</Path>
+				</File>
+				<File Id="393517894" Language="SFX">
+					<ShortName>sll_vo_horse_neigh_01.wav</ShortName>
+					<Path>SFX/sll_vo_horse_neigh_01_3F75BDB9.wem</Path>
+				</File>
+				<File Id="400272915" Language="SFX">
+					<ShortName>sll_sfx_bandit_attack_03.wav</ShortName>
+					<Path>SFX/sll_sfx_bandit_attack_03_10C4C929.wem</Path>
+				</File>
+				<File Id="411521285" Language="SFX">
+					<ShortName>sll_sfx_horse_footstep_05.wav</ShortName>
+					<Path>SFX/sll_sfx_horse_footstep_05_4BB3B825.wem</Path>
+				</File>
+				<File Id="414372928" Language="SFX">
+					<ShortName>sll_sfx_horse_footstep_09.wav</ShortName>
+					<Path>SFX/sll_sfx_horse_footstep_09_4BB3B825.wem</Path>
+				</File>
+				<File Id="415283509" Language="SFX">
+					<ShortName>sll_sfx_footstep_05.wav</ShortName>
+					<Path>SFX/sll_sfx_footstep_05_4BB3B825.wem</Path>
+				</File>
+				<File Id="421321544" Language="SFX">
+					<ShortName>sll_sfx_dojo_hit_01.wav</ShortName>
+					<Path>SFX/sll_sfx_dojo_hit_01_4BB3B825.wem</Path>
+				</File>
+				<File Id="431620306" Language="SFX">
+					<ShortName>sll_vo_bandit_attack_07.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_attack_07_3F75BDB9.wem</Path>
+				</File>
+				<File Id="440474925" Language="SFX">
+					<ShortName>sll_sfx_arrow_hit_01.wav</ShortName>
+					<Path>SFX/sll_sfx_arrow_hit_01_10C4C929.wem</Path>
+				</File>
+				<File Id="457915061" Language="SFX">
+					<ShortName>sll_sfx_dojo_punch_02.wav</ShortName>
+					<Path>SFX/sll_sfx_dojo_punch_02_4BB3B825.wem</Path>
+				</File>
+				<File Id="460253391" Language="SFX">
+					<ShortName>bgm_act2_intro_bpm60_4-4_PM1.wav</ShortName>
+					<Path>SFX/bgm_act2_intro_bpm60_4-4_PM1_43F63D03.wem</Path>
+				</File>
+				<File Id="461497516" Language="SFX">
+					<ShortName>sll_vo_bandit_attack_03.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_attack_03_3F75BDB9.wem</Path>
+				</File>
+				<File Id="476100135" Language="SFX">
+					<ShortName>sll_amb_children_loop_01.wav</ShortName>
+					<Path>SFX/sll_amb_children_loop_01_C3D27408.wem</Path>
+				</File>
+				<File Id="507842725" Language="SFX">
+					<ShortName>sll_amb_marketplace_loop.wav</ShortName>
+					<Path>SFX/sll_amb_marketplace_loop_C3D27408.wem</Path>
+					<PrefetchSize>3486</PrefetchSize>
+				</File>
+				<File Id="517920300" Language="SFX">
+					<ShortName>sll_vo_letter_03.wav</ShortName>
+					<Path>SFX/sll_vo_letter_03_3F75BDB9.wem</Path>
+				</File>
+				<File Id="528647565" Language="SFX">
+					<ShortName>sll_sfx_horse_footstep_08.wav</ShortName>
+					<Path>SFX/sll_sfx_horse_footstep_08_4BB3B825.wem</Path>
+				</File>
+				<File Id="533286225" Language="SFX">
+					<ShortName>sll_amb_day_battle_loop_02.wav</ShortName>
+					<Path>SFX/sll_amb_day_battle_loop_02_C3D27408.wem</Path>
+				</File>
+				<File Id="533691292" Language="SFX">
+					<ShortName>sll_sfx_bandit_attack_01.wav</ShortName>
+					<Path>SFX/sll_sfx_bandit_attack_01_10C4C929.wem</Path>
+				</File>
+				<File Id="538118541" Language="SFX">
+					<ShortName>sll_vo_horse_neigh_07.wav</ShortName>
+					<Path>SFX/sll_vo_horse_neigh_07_3F75BDB9.wem</Path>
+				</File>
+				<File Id="545392015" Language="SFX">
+					<ShortName>sll_vo_bandit_dying_04.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_dying_04_3F75BDB9.wem</Path>
+				</File>
+				<File Id="551694460" Language="SFX">
+					<ShortName>bgm_act2_lowend_bpm60_4-4_PM1.wav</ShortName>
+					<Path>SFX/bgm_act2_lowend_bpm60_4-4_PM1_43F63D03.wem</Path>
+				</File>
+				<File Id="553908615" Language="SFX">
+					<ShortName>sll_amb_night_loop.wav</ShortName>
+					<Path>SFX/sll_amb_night_loop_D79FB2B7.wem</Path>
+					<PrefetchSize>19344</PrefetchSize>
+				</File>
+				<File Id="560668916" Language="SFX">
+					<ShortName>sll_vo_horse_neigh_02.wav</ShortName>
+					<Path>SFX/sll_vo_horse_neigh_02_3F75BDB9.wem</Path>
+				</File>
+				<File Id="563340404" Language="SFX">
+					<ShortName>sll_sfx_arrow_hit_05.wav</ShortName>
+					<Path>SFX/sll_sfx_arrow_hit_05_10C4C929.wem</Path>
+				</File>
+				<File Id="573995932" Language="SFX">
+					<ShortName>sll_amb_kobuki_theatre.wav</ShortName>
+					<Path>SFX/sll_amb_kobuki_theatre_C3D27408.wem</Path>
+				</File>
+				<File Id="591534624" Language="SFX">
+					<ShortName>sll_vo_bandit_dying_06.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_dying_06_3F75BDB9.wem</Path>
+				</File>
+				<File Id="594093484" Language="SFX">
+					<ShortName>bgm_act2_highend_bpm60_4-4_PM1.wav</ShortName>
+					<Path>SFX/bgm_act2_highend_bpm60_4-4_PM1_43F63D03.wem</Path>
+				</File>
+				<File Id="595641431" Language="SFX">
+					<ShortName>sll_vo_panting_04.wav</ShortName>
+					<Path>SFX/sll_vo_panting_04_3F75BDB9.wem</Path>
+				</File>
+				<File Id="607024235" Language="SFX">
+					<ShortName>sll_amb_women_loop_02.wav</ShortName>
+					<Path>SFX/sll_amb_women_loop_02_C3D27408.wem</Path>
+					<PrefetchSize>3379</PrefetchSize>
+				</File>
+				<File Id="634083470" Language="SFX">
+					<ShortName>sll_vo_dojo_children_01.wav</ShortName>
+					<Path>SFX/sll_vo_dojo_children_01_3F75BDB9.wem</Path>
+				</File>
+				<File Id="640015855" Language="SFX">
+					<ShortName>sll_vo_panting_06.wav</ShortName>
+					<Path>SFX/sll_vo_panting_06_3F75BDB9.wem</Path>
+				</File>
+				<File Id="649697656" Language="SFX">
+					<ShortName>sll_sfx_dojo_hit_07.wav</ShortName>
+					<Path>SFX/sll_sfx_dojo_hit_07_4BB3B825.wem</Path>
+				</File>
+				<File Id="657484363" Language="SFX">
+					<ShortName>sll_vo_bandit_attack_06.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_attack_06_3F75BDB9.wem</Path>
+				</File>
+				<File Id="672203495" Language="SFX">
+					<ShortName>sll_sfx_bandit_attack_02.wav</ShortName>
+					<Path>SFX/sll_sfx_bandit_attack_02_10C4C929.wem</Path>
+				</File>
+				<File Id="683473903" Language="SFX">
+					<ShortName>sll_amb_river_loop.wav</ShortName>
+					<Path>SFX/sll_amb_river_loop_C3D27408.wem</Path>
+					<PrefetchSize>5921</PrefetchSize>
+				</File>
+				<File Id="694520507" Language="SFX">
+					<ShortName>sll_vo_dojo_children_08.wav</ShortName>
+					<Path>SFX/sll_vo_dojo_children_08_3F75BDB9.wem</Path>
+				</File>
+				<File Id="694921146" Language="SFX">
+					<ShortName>sll_vo_dojo_children_06.wav</ShortName>
+					<Path>SFX/sll_vo_dojo_children_06_3F75BDB9.wem</Path>
+				</File>
+				<File Id="703234153" Language="SFX">
+					<ShortName>sll_sfx_footstep_04.wav</ShortName>
+					<Path>SFX/sll_sfx_footstep_04_4BB3B825.wem</Path>
+				</File>
+				<File Id="712699392" Language="SFX">
+					<ShortName>sll_sfx_dojo_hit_03.wav</ShortName>
+					<Path>SFX/sll_sfx_dojo_hit_03_4BB3B825.wem</Path>
+				</File>
+				<File Id="722850495" Language="SFX">
+					<ShortName>sll_vo_bandit_dying_05.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_dying_05_3F75BDB9.wem</Path>
+				</File>
+				<File Id="731459816" Language="SFX">
+					<ShortName>sll_vo_bandit_dying_02.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_dying_02_3F75BDB9.wem</Path>
+				</File>
+				<File Id="735491764" Language="SFX">
+					<ShortName>sll_amb_ricefield_loop.wav</ShortName>
+					<Path>SFX/sll_amb_ricefield_loop_C3D27408.wem</Path>
+					<PrefetchSize>4049</PrefetchSize>
+				</File>
+				<File Id="740902111" Language="SFX">
+					<ShortName>sll_vo_bandit_dying_01.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_dying_01_3F75BDB9.wem</Path>
+				</File>
+				<File Id="742581987" Language="SFX">
+					<ShortName>sll_vo_letter_01.wav</ShortName>
+					<Path>SFX/sll_vo_letter_01_3F75BDB9.wem</Path>
+				</File>
+				<File Id="754074079" Language="SFX">
+					<ShortName>sll_vo_panting_09.wav</ShortName>
+					<Path>SFX/sll_vo_panting_09_3F75BDB9.wem</Path>
+				</File>
+				<File Id="757540377" Language="SFX">
+					<ShortName>sll_vo_bandit_dying_03.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_dying_03_3F75BDB9.wem</Path>
+				</File>
+				<File Id="758346158" Language="SFX">
+					<ShortName>sll_amb_horse_loop.wav</ShortName>
+					<Path>SFX/sll_amb_horse_loop_8FA32EFE.wem</Path>
+				</File>
+				<File Id="784623148" Language="SFX">
+					<ShortName>sll_sfx_footstep_06.wav</ShortName>
+					<Path>SFX/sll_sfx_footstep_06_4BB3B825.wem</Path>
+				</File>
+				<File Id="788084272" Language="SFX">
+					<ShortName>sll_sfx_bow_release_02.wav</ShortName>
+					<Path>SFX/sll_sfx_bow_release_02_4BB3B825.wem</Path>
+				</File>
+				<File Id="789417748" Language="SFX">
+					<ShortName>sll_sfx_bow_release_06.wav</ShortName>
+					<Path>SFX/sll_sfx_bow_release_06_4BB3B825.wem</Path>
+				</File>
+				<File Id="796916941" Language="SFX">
+					<ShortName>sll_sfx_bandit_attack_04.wav</ShortName>
+					<Path>SFX/sll_sfx_bandit_attack_04_10C4C929.wem</Path>
+				</File>
+				<File Id="819679481" Language="SFX">
+					<ShortName>sll_vo_panting_08.wav</ShortName>
+					<Path>SFX/sll_vo_panting_08_3F75BDB9.wem</Path>
+				</File>
+				<File Id="823227951" Language="SFX">
+					<ShortName>sll_amb_fire_loop_02.wav</ShortName>
+					<Path>SFX/sll_amb_fire_loop_02_C3D27408.wem</Path>
+					<PrefetchSize>6206</PrefetchSize>
+				</File>
+				<File Id="828203423" Language="SFX">
+					<ShortName>sll_sfx_bow_release_04.wav</ShortName>
+					<Path>SFX/sll_sfx_bow_release_04_4BB3B825.wem</Path>
+				</File>
+				<File Id="843207996" Language="SFX">
+					<ShortName>sll_amb_day_loop.wav</ShortName>
+					<Path>SFX/sll_amb_day_loop_D79FB2B7.wem</Path>
+					<PrefetchSize>19344</PrefetchSize>
+				</File>
+				<File Id="848313643" Language="SFX">
+					<ShortName>sll_vo_letter_02.wav</ShortName>
+					<Path>SFX/sll_vo_letter_02_3F75BDB9.wem</Path>
+				</File>
+				<File Id="854368718" Language="SFX">
+					<ShortName>sll_sfx_dojo_punch_01.wav</ShortName>
+					<Path>SFX/sll_sfx_dojo_punch_01_4BB3B825.wem</Path>
+				</File>
+				<File Id="862520085" Language="SFX">
+					<ShortName>sll_sfx_footstep_07.wav</ShortName>
+					<Path>SFX/sll_sfx_footstep_07_4BB3B825.wem</Path>
+				</File>
+				<File Id="893072318" Language="SFX">
+					<ShortName>sll_amb_children_loop_03.wav</ShortName>
+					<Path>SFX/sll_amb_children_loop_03_C3D27408.wem</Path>
+				</File>
+				<File Id="925929271" Language="SFX">
+					<ShortName>sll_vo_bandit_attack_04.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_attack_04_3F75BDB9.wem</Path>
+				</File>
+				<File Id="926943708" Language="SFX">
+					<ShortName>sll_vo_panting_01.wav</ShortName>
+					<Path>SFX/sll_vo_panting_01_3F75BDB9.wem</Path>
+				</File>
+				<File Id="930485525" Language="SFX">
+					<ShortName>sll_sfx_footstep_08.wav</ShortName>
+					<Path>SFX/sll_sfx_footstep_08_4BB3B825.wem</Path>
+				</File>
+				<File Id="941774758" Language="SFX">
+					<ShortName>sll_sfx_bow_release_07.wav</ShortName>
+					<Path>SFX/sll_sfx_bow_release_07_4BB3B825.wem</Path>
+				</File>
+				<File Id="946719799" Language="SFX">
+					<ShortName>sll_vo_bandit_dying_07.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_dying_07_3F75BDB9.wem</Path>
+				</File>
+				<File Id="946879197" Language="SFX">
+					<ShortName>sll_sfx_dojo_hit_08.wav</ShortName>
+					<Path>SFX/sll_sfx_dojo_hit_08_4BB3B825.wem</Path>
+				</File>
+				<File Id="952127044" Language="SFX">
+					<ShortName>sll_vo_letter_05.wav</ShortName>
+					<Path>SFX/sll_vo_letter_05_3F75BDB9.wem</Path>
+				</File>
+				<File Id="964443625" Language="SFX">
+					<ShortName>sll_vo_dojo_children_04.wav</ShortName>
+					<Path>SFX/sll_vo_dojo_children_04_3F75BDB9.wem</Path>
+				</File>
+				<File Id="966316550" Language="SFX">
+					<ShortName>sll_sfx_arrow_hit_02.wav</ShortName>
+					<Path>SFX/sll_sfx_arrow_hit_02_10C4C929.wem</Path>
+				</File>
+				<File Id="972321637" Language="SFX">
+					<ShortName>sll_vo_horse_neigh_08.wav</ShortName>
+					<Path>SFX/sll_vo_horse_neigh_08_3F75BDB9.wem</Path>
+				</File>
+				<File Id="974717590" Language="SFX">
+					<ShortName>sll_sfx_arrow_hit_07.wav</ShortName>
+					<Path>SFX/sll_sfx_arrow_hit_07_10C4C929.wem</Path>
+				</File>
+				<File Id="975857309" Language="SFX">
+					<ShortName>sll_amb_fire_loop_03.wav</ShortName>
+					<Path>SFX/sll_amb_fire_loop_03_C3D27408.wem</Path>
+					<PrefetchSize>5872</PrefetchSize>
+				</File>
+				<File Id="976665425" Language="SFX">
+					<ShortName>sll_vo_dojo_children_02.wav</ShortName>
+					<Path>SFX/sll_vo_dojo_children_02_3F75BDB9.wem</Path>
+				</File>
+				<File Id="984662378" Language="SFX">
+					<ShortName>sll_sfx_dojo_hit_02.wav</ShortName>
+					<Path>SFX/sll_sfx_dojo_hit_02_4BB3B825.wem</Path>
+				</File>
+				<File Id="1014412846" Language="SFX">
+					<ShortName>sll_sfx_horse_footstep_07.wav</ShortName>
+					<Path>SFX/sll_sfx_horse_footstep_07_4BB3B825.wem</Path>
+				</File>
+				<File Id="1035573956" Language="SFX">
+					<ShortName>sll_vo_bandit_attack_08.wav</ShortName>
+					<Path>SFX/sll_vo_bandit_attack_08_3F75BDB9.wem</Path>
+				</File>
+				<File Id="1061010269" Language="SFX">
+					<ShortName>sll_sfx_bandit_attack_05.wav</ShortName>
+					<Path>SFX/sll_sfx_bandit_attack_05_10C4C929.wem</Path>
+				</File>
+				<File Id="1071099139" Language="SFX">
+					<ShortName>sll_sfx_arrow_hit_03.wav</ShortName>
+					<Path>SFX/sll_sfx_arrow_hit_03_10C4C929.wem</Path>
+				</File>
+				<File Id="1071177429" Language="SFX">
+					<ShortName>sll_vo_dojo_children_03.wav</ShortName>
+					<Path>SFX/sll_vo_dojo_children_03_3F75BDB9.wem</Path>
+				</File>
+				<File Id="1071429415" Language="SFX">
+					<ShortName>sll_sfx_dojo_hit_05.wav</ShortName>
+					<Path>SFX/sll_sfx_dojo_hit_05_4BB3B825.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+			<StateGroups>
+				<StateGroup Id="3991942870" Name="Music" ObjectPath="\States\Default Work Unit\Village\Music" GUID="{E80D5CA1-16FC-4AD1-B2AA-63A2A3B2DC2C}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Village\Music\None" GUID="{291ECD8D-F656-416B-BBD2-924A8A2780B7}"/>
+						<State Id="4100993178" Name="Act3Part1" ObjectPath="\States\Default Work Unit\Village\Music\Act3Part1" GUID="{FA4EC07C-CAB8-4C9A-B8BE-03879249FC0E}"/>
+						<State Id="4100993177" Name="Act3Part2" ObjectPath="\States\Default Work Unit\Village\Music\Act3Part2" GUID="{413FF0C9-6660-4A27-A78B-2989F5C57C27}"/>
+						<State Id="3882471229" Name="Act2Part1" ObjectPath="\States\Default Work Unit\Village\Music\Act2Part1" GUID="{74390A80-CD04-4E86-B2AC-02B3530EACD9}"/>
+						<State Id="3882471230" Name="Act2Part2" ObjectPath="\States\Default Work Unit\Village\Music\Act2Part2" GUID="{BA4AEF18-E0BA-40F7-8274-1D3AA58F3554}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="4057549690">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="85412153" Name="Ambience" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Sound\Ambience"/>
+				<AuxBus Id="393239870" Name="SFX" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Sound\SFX"/>
+				<AuxBus Id="1534528548" Name="VO" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Sound\VO"/>
+				<AuxBus Id="1551306167" Name="UI" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Sound\UI"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

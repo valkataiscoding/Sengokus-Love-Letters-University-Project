@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}" SchemaVersion="103" RootDocumentID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}" ParentDocumentID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}">
+	<Events>
+		<WorkUnit Name="Ambience" ID="{67B159C0-52B3-4EF3-83EB-97A673AA1A6E}" OwnerID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="amb_river" ID="{623BE8DB-7EB8-4D0C-BDEE-06544683EE42}">
+					<ChildrenList>
+						<Action Name="" ID="{35C5ECFB-8646-483F-B711-86136F21CD1C}" ShortID="374898095">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_river_loop" ID="{7BCA1978-6DEC-45BD-AEB7-57C17B053C74}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_day_marketplace" ID="{66516A3F-BB6C-4880-934F-B83FD7BEEE0D}">
+					<ChildrenList>
+						<Action Name="" ID="{C98B0BED-8901-4EF9-8108-BBB56C447164}" ShortID="1052975165">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_day_marketplace_loop" ID="{33C668F0-DAA3-4149-85BF-0E3CE44A1C1A}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_ricefield" ID="{731356E5-0E81-47EE-B2BE-18A2F6B482E6}">
+					<ChildrenList>
+						<Action Name="" ID="{0CBC1489-02F8-43DB-BE99-06BA651F47E2}" ShortID="86187747">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_ricefield_loop" ID="{D5454AD1-2A42-4143-9C6A-C6436BD9CC8E}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_restaurant" ID="{B4992B94-60E7-4F90-9003-2C3435E70B21}">
+					<ChildrenList>
+						<Action Name="" ID="{DC2C538A-19A1-4FDE-826C-7EEC40534752}" ShortID="808414187">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_restaurant_loop" ID="{80F24151-7878-43BF-A1AC-70A17055FC79}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_dojo" ID="{10460491-DF59-4EAA-80BB-DE46F0A3A5B4}">
+					<ChildrenList>
+						<Action Name="" ID="{D0B5159A-BAFF-43D7-A3DB-58A9B3E57153}" ShortID="84757743">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_dojo_training_loop" ID="{2452B1FD-F310-4D9A-8687-0422D084CA9F}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_entertainment" ID="{13BE2170-697F-4F44-AA62-8FB06DB9F3E3}">
+					<ChildrenList>
+						<Action Name="" ID="{07A871D5-DC03-4404-BA20-B399152A63F5}" ShortID="464363717">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_entertainment_loop" ID="{8ECB439E-3E62-44AE-AD16-EEDF4ACD8628}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_temple_bell" ID="{5EFABBA4-815D-4E3E-986B-2D696FE80321}">
+					<ChildrenList>
+						<Action Name="" ID="{67470596-4C1A-4A65-9CCC-9CB9A1D0B9E8}" ShortID="661778078">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_sfx_temple_bell" ID="{9D68D1F9-0A37-4770-AFA3-383F7BE54E87}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{F87A3D66-BC14-48B4-A3BA-FC9896D45C6E}" ShortID="311214571">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_sfx_temple_bell" ID="{9D68D1F9-0A37-4770-AFA3-383F7BE54E87}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_day" ID="{0473DF43-9CA0-4947-A021-C4CC1E392E28}">
+					<ChildrenList>
+						<Action Name="" ID="{20106039-8F0A-4E8E-B190-D10D797D70E1}" ShortID="444232846">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_day_loop" ID="{761937DD-093F-4B34-B8B5-F96FAB7216CB}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_children_01" ID="{5BCF3631-0159-4720-AE8D-320EF947A6D6}">
+					<ChildrenList>
+						<Action Name="" ID="{D5369E6C-52EB-4387-AE93-075145C1E787}" ShortID="617004948">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_children_loop_01" ID="{C5B7A831-3F2E-4A7E-AA0D-23B7FDD6A947}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_day_winter" ID="{1C7C1286-39E5-44AC-BC11-4C0A1D21ABCE}">
+					<ChildrenList>
+						<Action Name="" ID="{01B171DE-4678-412D-A13F-49CC098DCBD9}" ShortID="705884911">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_day_winter_loop" ID="{2D2C15DD-204E-4A24-9370-08803F3175E9}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_ricefield_winter" ID="{06B77C9B-019F-495D-935D-2FEFB4F173C8}">
+					<ChildrenList>
+						<Action Name="" ID="{ECF9B844-EB9B-41E9-AD30-D5F69C3295EC}" ShortID="373822560">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_ricefield_winter_loop" ID="{D5C294A1-DAF6-413E-A8BD-32E83E7E72D0}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_night" ID="{97965741-2978-4104-B697-073FC61A0B59}">
+					<ChildrenList>
+						<Action Name="" ID="{342746C8-D86B-4771-ACD6-59F84C2C8EF6}" ShortID="98089868">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="3"/>
+							</PropertyList>
+							<ReferenceList/>
+						</Action>
+						<Action Name="" ID="{14B311C4-6B14-42D6-A58D-1542E42FD61C}" ShortID="160730908">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_night_loop" ID="{D638C6E2-B6A0-4F2C-BE05-813469243F60}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_fire" ID="{1CD47144-B127-4C8A-8079-F9090EFF1BDF}">
+					<ChildrenList>
+						<Action Name="" ID="{57899268-6699-480A-9E10-949D216BCF2C}" ShortID="909148702">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="fire" ID="{C797CCC0-5973-466E-9628-969E35F5012A}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_crowd_screaming" ID="{353F7EBA-6DDF-4439-9C97-FA09A8B5CFC1}">
+					<ChildrenList>
+						<Action Name="" ID="{EED1B5CD-9027-4635-B215-202A432BEDFB}" ShortID="780752003">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_crowd_escaping_loop" ID="{F3DB6B17-C909-47CA-B995-C5CE8C68A568}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_bandit_chasing" ID="{08F2BD6D-2F10-4F1D-A720-607BE7A5290D}">
+					<ChildrenList>
+						<Action Name="" ID="{49F8F4E4-32FC-45D4-BB40-8CFDE8919819}" ShortID="1038021247">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_bandit_chasing_loop" ID="{CBB14E24-0A85-4D29-9193-A1228FC225A5}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_women_screaming_01" ID="{BB41273C-9784-4AE0-B862-83BC9369B267}">
+					<ChildrenList>
+						<Action Name="" ID="{AF6D5D06-D26D-4EF0-9E5C-982DBB956D88}" ShortID="165529272">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_women_screaming_loop_01" ID="{D10F10BD-A4F0-4127-949A-8DC523DC5FC8}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_women_screaming_02" ID="{11B841F4-2DBD-49DE-AF49-8C5A390F9729}">
+					<ChildrenList>
+						<Action Name="" ID="{5D9B8403-5C71-4ED5-8121-E1FD9B641010}" ShortID="1016266346">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_women_screaming_loop_02" ID="{D4319338-3015-4953-9430-676923D41A2A}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_baby_crying" ID="{AD0981CF-6D6E-43C4-BCF8-57B5B73873CC}">
+					<ChildrenList>
+						<Action Name="" ID="{668A5EE4-B3B4-43FF-9B36-2F1D0507039E}" ShortID="171994331">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_baby_crying_loop" ID="{CD286EFD-1911-49B4-B680-1FDBAFBAD5B3}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_horse" ID="{6654EBA1-33F8-40C2-986A-4FC8FD104F53}">
+					<ChildrenList>
+						<Action Name="" ID="{0BC24808-FF26-4F42-AC65-2972A2F6C186}" ShortID="117257038">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_horse_loop" ID="{A5366C2A-593B-4AF2-8931-3122D595AA42}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_day_battlefiled_01" ID="{1CD1DA79-8BEB-4342-B27F-C6EDC5BECA14}">
+					<ChildrenList>
+						<Action Name="" ID="{D32545F0-E3F8-4B8F-B9F6-782CE774367C}" ShortID="587565131">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_day_battlefield_loop_01" ID="{0896B596-CFB4-499F-A83D-948F22477EB4}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_day_battlefield_02" ID="{ED0C8A1D-42F9-4A5F-8F5A-56EC9D65DFE5}">
+					<ChildrenList>
+						<Action Name="" ID="{FBCDD230-C9B4-4E28-9751-20668387B845}" ShortID="984267271">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_day_battlefield_loop_02" ID="{84D8EED0-CAF7-4D96-A514-28C40DF1DA1D}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_night_marketplace" ID="{F34A4688-8752-4A69-967C-3B7304B14231}">
+					<ChildrenList>
+						<Action Name="" ID="{43A6D943-974C-4A7C-86FC-C33CEFF5176C}" ShortID="99266662">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_night_marketplace_loop" ID="{8394A577-43C7-4DFF-9B5D-5AFCDD8AFA55}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_kabuki" ID="{3EA0E3C2-BB56-44CF-8CE4-8EBFAFC04032}">
+					<ChildrenList>
+						<Action Name="" ID="{F58476D7-B6A4-4070-B535-5CA5E569939F}" ShortID="215554918">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_kabuki_theatre" ID="{28EF644A-F272-4823-8FCA-C2C52B583EDA}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="amb_children_02" ID="{93689429-F7BD-4212-8895-87A3C7A34A83}">
+					<ChildrenList>
+						<Action Name="" ID="{3F148D71-742D-4A61-A7DC-C7A2153F5135}" ShortID="982767031">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_children_loop_02" ID="{7BC2ACF7-F3DC-4C05-8155-300D48A4D366}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DFD235CB-F912-49B9-8C71-E95A8F97ECCE}" SchemaVersion="103" RootDocumentID="{61926AC2-9052-44D9-AF33-181319A166C9}" ParentDocumentID="{61926AC2-9052-44D9-AF33-181319A166C9}">
+	<States>
+		<WorkUnit Name="Village" ID="{DFD235CB-F912-49B9-8C71-E95A8F97ECCE}" OwnerID="{61926AC2-9052-44D9-AF33-181319A166C9}" PersistMode="Nested">
+			<ChildrenList>
+				<StateGroup Name="Music" ID="{E80D5CA1-16FC-4AD1-B2AA-63A2A3B2DC2C}">
+					<ChildrenList>
+						<State Name="None" ID="{291ECD8D-F656-416B-BBD2-924A8A2780B7}"/>
+						<State Name="Act3Part1" ID="{FA4EC07C-CAB8-4C9A-B8BE-03879249FC0E}"/>
+						<State Name="Act3Part2" ID="{413FF0C9-6660-4A27-A78B-2989F5C57C27}"/>
+						<State Name="Act2Part1" ID="{74390A80-CD04-4E86-B2AC-02B3530EACD9}"/>
+						<State Name="Act2Part2" ID="{BA4AEF18-E0BA-40F7-8274-1D3AA58F3554}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Generic" ID="{35A9D901-885C-49DA-8C78-3E2D19181295}">
+					<ChildrenList>
+						<State Name="None" ID="{FAD001DA-2D00-47EE-AA44-25CD377FA88E}"/>
+						<State Name="Cutscenes" ID="{C67E234E-7D34-4DE1-A649-EF1B75F9D5CA}"/>
+						<State Name="Gameplay" ID="{230E2CA6-913C-4C16-AB2A-07D73792C7F1}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

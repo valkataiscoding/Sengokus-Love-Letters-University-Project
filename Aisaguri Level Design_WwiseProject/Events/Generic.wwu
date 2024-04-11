@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{02325C7E-3241-4D8A-8EAD-7B34443BAD8A}" SchemaVersion="103" RootDocumentID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}" ParentDocumentID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}">
+	<Events>
+		<WorkUnit Name="Generic" ID="{02325C7E-3241-4D8A-8EAD-7B34443BAD8A}" OwnerID="{5B2165E2-11AE-4582-855D-1C7DD7B5AA6F}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Footstep" ID="{EF342281-2C57-464C-B26B-1CA9A12507E6}">
+					<ChildrenList>
+						<Action Name="" ID="{5841C37B-2346-4B03-9307-1DEA0CF2469E}" ShortID="364257421">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footstep" ID="{E9E425E7-B073-44FC-9176-9E4321EE89B3}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Event" ID="{1AB6602B-49D3-40D9-829A-07D571860FEB}">
+					<ChildrenList>
+						<Action Name="" ID="{4491A442-0418-4927-A091-6AAD8EF3156E}" ShortID="545757368">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Village" ID="{40EA4F34-8C34-42E7-86CC-F28FE8309DAD}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Bandit_Warning_Enter" ID="{2E7E5C82-3B45-4A5B-9527-C5DCE3FD1463}">
+					<ChildrenList>
+						<Action Name="" ID="{11017C24-CAB2-488D-9844-BB565E187E9B}" ShortID="754800804">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_entertainment_loop" ID="{8ECB439E-3E62-44AE-AD16-EEDF4ACD8628}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{19F6F07B-3A24-4A91-BCE1-110F551BB54C}" ShortID="269749636">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Rika VO" ID="{CDFC8518-A886-45A6-8CE7-113F5D504D1F}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{36A0DE41-180C-4EFA-A764-379400BD0C08}" ShortID="302106415">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="4"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footstep" ID="{E9E425E7-B073-44FC-9176-9E4321EE89B3}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_children_amb" ID="{10286813-AF68-4AEF-A234-B3EB42BE6FC3}">
+					<ChildrenList>
+						<Action Name="" ID="{447C262B-1C0C-4E09-8355-A481264138D6}" ShortID="1034332833">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_children_loop_01" ID="{C5B7A831-3F2E-4A7E-AA0D-23B7FDD6A947}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{DA304FEE-B47C-4048-B633-A9A359BDF098}" ShortID="236688289">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_children_loop_02" ID="{7BC2ACF7-F3DC-4C05-8155-300D48A4D366}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Bandit_Warning_Exit" ID="{04CE44E9-A705-4385-8BA6-75F5F042B45B}">
+					<ChildrenList>
+						<Action Name="" ID="{0DBDCB46-AEAC-40F3-826E-921DC590B526}" ShortID="725710382">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footstep" ID="{E9E425E7-B073-44FC-9176-9E4321EE89B3}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{25881A57-96F2-4A8F-8187-F26E011BF575}" ShortID="355050053">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Rika VO" ID="{CDFC8518-A886-45A6-8CE7-113F5D504D1F}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Kabuki" ID="{097F7A63-497B-4466-8758-9E2CC9806CC2}">
+					<ChildrenList>
+						<Action Name="" ID="{BA0C63EF-721C-4F98-83AF-F76E2A805D9B}" ShortID="453438113">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sll_amb_kabuki_theatre" ID="{28EF644A-F272-4823-8FCA-C2C52B583EDA}" WorkUnitID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

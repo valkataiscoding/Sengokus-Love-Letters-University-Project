@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c61a20dd3da32478fba1295c1adb17b0, type: 3}
+  m_Name: 246FB0D7-DB2E-4B9B-9E4A-43569A6A79F1
+  m_EditorClassIdentifier: 
+  objectName: Intro5
+  id: 3293087166
+  guid: 246FB0D7-DB2E-4B9B-9E4A-43569A6A79F1

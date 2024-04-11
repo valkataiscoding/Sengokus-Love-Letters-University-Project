@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game Scenes/IntroAct1.unity
+    guid: 44703d89af10ff24c949e85c4ce7a32f
+  - enabled: 1
+    path: Assets/Game Scenes/Aisaguri Village 1 URP.unity
+    guid: 2ed4ad15e38d850438ff034b8216a829
+  - enabled: 1
+    path: Assets/Game Scenes/Act 1 After Temple.unity
+    guid: 0e06393babd32494ea81899188f8d902
+  - enabled: 1
+    path: Assets/Game Scenes/IntroAct2.unity
+    guid: 3a4147f9f9f4c704fbaca2d113d651e0
+  - enabled: 1
+    path: Assets/Game Scenes/Aisaguri Village Snow URP.unity
+    guid: 708a6f81f44dbd041b028f58006cc1ce
+  - enabled: 1
+    path: Assets/Game Scenes/Act 2 After Dojo.unity
+    guid: 457679e0588fbb943956eb6cd0d76a2d
+  - enabled: 1
+    path: Assets/Game Scenes/Act 2 After Kabuki.unity
+    guid: 85552dfb9c125e24489aaeb063c83b1c
+  - enabled: 1
+    path: Assets/Game Scenes/Act 2 After Kabuki Kids.unity
+    guid: 41283272cde2c7e4da48c29721ffff86
+  - enabled: 1
+    path: Assets/Game Scenes/Act 2 After Restaurant.unity
+    guid: fa501a4e83a09bb49b4a8658a15d0778
+  - enabled: 1
+    path: Assets/Game Scenes/IntroAct3.unity
+    guid: 121c61292ad147e4794ae650d130dd85
+  - enabled: 1
+    path: Assets/Game Scenes/Aisaguri Village 2 Night URP.unity
+    guid: e61edeff3ca989645a36704a44c48a4f
+  - enabled: 1
+    path: Assets/Game Scenes/Act 3 After Castle.unity
+    guid: 71aa782cacf9281418c0f8268e9bfd79
+  - enabled: 1
+    path: Assets/Game Scenes/Under Attack Village.unity
+    guid: af2a37987751c024c8c91587aed0c55f
+  - enabled: 1
+    path: Assets/Game Scenes/Under Attack Village 2.unity
+    guid: 0eaeb51d27c87f548af8df8cc992072d
+  - enabled: 1
+    path: Assets/Game Scenes/To Be Continued.unity
+    guid: a0abce2ab34233d41ae14d9330578f27
+  - enabled: 0
+    path: Assets/Game Scenes/Aisaguri Village.unity
+    guid: c8b4798b5b9b39f4fa3240fa74c21f73
+  m_configObjects: {}

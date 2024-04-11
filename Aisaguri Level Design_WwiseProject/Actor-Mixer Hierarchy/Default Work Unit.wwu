@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{95ED9D5A-9D48-42E4-BFA1-0B9CB5CF209C}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{95ED9D5A-9D48-42E4-BFA1-0B9CB5CF209C}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Cutscenes" ID="{EC1B09BD-7204-4B55-8AAC-08814DC4B558}" PersistMode="Reference"/>
+				<WorkUnit Name="Gameplay" ID="{8EE2E52B-6BCA-4219-8A8C-B6898375F539}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

@@ -1,0 +1,73 @@
+Event	ID	Name			Wwise Object Path	Notes
+	45729008	amb_river			\Default Work Unit\Ambience\amb_river	
+	93046195	amb_temple_bell			\Default Work Unit\Ambience\amb_temple_bell	
+	433598255	amb_restaurant			\Default Work Unit\Ambience\amb_restaurant	
+	1061019936	amb_day_winter			\Default Work Unit\Ambience\amb_day_winter	
+	1698652156	amb_children_training_03			\Default Work Unit\Ambience\amb_children_training_03	
+	1698652157	amb_children_training_02			\Default Work Unit\Ambience\amb_children_training_02	
+	1698652158	amb_children_training_01			\Default Work Unit\Ambience\amb_children_training_01	
+	1708742407	amb_ricefield			\Default Work Unit\Ambience\amb_ricefield	
+	1866025847	Footstep			\Default Work Unit\Generic\Footstep	
+	2323193050	Temple			\Default Work Unit\Music\Temple	
+	2365450619	amb_marketplace			\Default Work Unit\Ambience\amb_marketplace	
+	2669867635	amb_children			\Default Work Unit\Ambience\amb_children	
+	2813190856	amb_entertainment			\Default Work Unit\Ambience\amb_entertainment	
+	2893603210	amb_dojo_hit			\Default Work Unit\Ambience\amb_dojo_hit	
+	2957742932	amb_dojo			\Default Work Unit\Ambience\amb_dojo	
+	3453085348	amb_day			\Default Work Unit\Ambience\amb_day	
+	3504395756	Act1			\Default Work Unit\Music\Act1	
+	3504395758	Act3			\Default Work Unit\Music\Act3	
+	3504395759	Act2			\Default Work Unit\Music\Act2	
+	3935009713	amb_ricefield_winter			\Default Work Unit\Ambience\amb_ricefield_winter	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3991942870	Music			\Default Work Unit\Village\Music	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Music			
+	3504395756	Act1	Music			
+	3504395758	Act3	Music			
+	3504395759	Act2	Music			
+
+Effect plug-ins	ID	Name	Type				Notes
+	1551236760	Small_Wooden_Room1	Wwise Matrix Reverb			
+	2791153688	Hall_Small	Wwise RoomVerb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	29315190	sll_sfx_footstep_03	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_sfx_footstep_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Footstep\sll_sfx_footstep_03		71388
+	46382331	bgm_act3_explore_bpm68_4-4_PM1	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\bgm_act3_explore_bpm68_4-4_PM1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Music\Act3\bgm_act3_explore_bpm68_4-4_PM1\bgm_act3_explore_bpm68_4-4_PM1		16187484
+	72890408	sll_amb_ricefield_winter_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_ricefield_winter_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_ricefield_winter_loop		3168144
+	82707365	sll_amb_restaurant_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_restaurant_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_restaurant_loop		3528144
+	94394046	sll_amb_battlefiled_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_cutscene_battlefiled_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Cutscene\sll_amb_battlefiled_loop		10176144
+	101625255	bgm_act3_intense_bpm74_4-4_PM1	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\bgm_act3_intense_bpm74_4-4_PM1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Music\Act3\bgm_act3_intense_bpm74_4-4_PM1\bgm_act3_intense_bpm74_4-4_PM1		11208836
+	123800563	stingers_temple	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\stingers_temple_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Jingle\temple\stingers_temple		2710776
+	131518631	bgm_act2_loop_bpm60_4-4_PM1	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\bgm_act2_loop_bpm60_4-4_PM1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Music\Act2\bgm_act2_loop_bpm60_4-4_PM1\bgm_act2_loop_bpm60_4-4_PM1		38400192
+	143306907	sll_sfx_temple_bell	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_sfx_temple_bell_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_sfx_temple_bell		1139712
+	168695318	sll_amb_entertainment_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_entertainment_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_entertainment_loop		2976144
+	170831571	sll_amb_children_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_children_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_children_loop		1540992
+	227914257	sll_sfx_footstep_02	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_sfx_footstep_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Footstep\sll_sfx_footstep_02		80388
+	251305677	sll_amb_day_winter_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_day_winter_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_day_winter_loop		4512144
+	281462136	sll_amb_crowd_escaping_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_crowd_escaping_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_crowd_escaping_loop		2592144
+	322082453	sll_amb_dojo_training_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_dojo_training_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_dojo_training_loop		3112192
+	339805535	bgm_act3_intro_bpm60_4-4_PM1	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\bgm_act3_intro_bpm60_4-4_PM1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Music\Act3\bgm_act3_intro_bpm60_4-4_PM1\bgm_act3_intro_bpm60_4-4_PM1		6912192
+	386561186	sll_sfx_footstep_01	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_sfx_footstep_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Footstep\sll_sfx_footstep_01		64908
+	415283509	sll_sfx_footstep_05	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_sfx_footstep_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Footstep\sll_sfx_footstep_05		67836
+	452530217	sll_amb_children_training_loop_03	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_children_training_loop_03_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_children_training_loop_03		3933000
+	460253391	bgm_act2_intro_bpm60_4-4_PM1	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\bgm_act2_intro_bpm60_4-4_PM1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Music\Act2\bgm_act2_intro_bpm60_4-4_PM1\bgm_act2_intro_bpm60_4-4_PM1		7440192
+	481787067	sll_sfx_footstep_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_sfx_footstep_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_sfx_footstep_loop		768144
+	507842725	sll_amb_marketplace_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_marketplace_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_marketplace_loop		5856144
+	573995932	sll_amb_kobuki_theatre	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_kobuki_theatre_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Cutscene\sll_amb_kobuki_theatre		4504544
+	609019263	bgm_act1_loop_bpm80_4-4_PM1	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\bgm_act1_loop_bpm80_4-4_PM1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Music\Act1\bgm_act1_loop_bpm80_4-4_PM1\bgm_act1_loop_bpm80_4-4_PM1		28800192
+	683473903	sll_amb_river_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_river_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_river_loop		3999976
+	690372684	bgm_act1_intro_bpm80_4-4_PM1	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\bgm_act1_intro_bpm80_4-4_PM1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Music\Act1\bgm_act1_intro_bpm80_4-4_PM1\bgm_act1_intro_bpm80_4-4_PM1		3744192
+	703234153	sll_sfx_footstep_04	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_sfx_footstep_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Footstep\sll_sfx_footstep_04		78488
+	727622929	sll_amb_children_training_loop_02	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_children_training_loop_02_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_children_training_loop_02		3933000
+	735491764	sll_amb_ricefield_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_ricefield_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_ricefield_loop		6624144
+	771168826	sll_amb_children_training_loop_01	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_children_training_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_children_training_loop_01		3933000
+	780241273	bgm_act3_transition_bpm74_4-4_PM1	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\bgm_act3_transition_bpm74_4-4_PM1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Village\Music\Act3\bgm_act3_transition_bpm74_4-4_PM1\bgm_act3_transition_bpm74_4-4_PM1		3736452
+	784623148	sll_sfx_footstep_06	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_sfx_footstep_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Footstep\sll_sfx_footstep_06		76588
+	815093362	sll_amb_dojo_hit_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_dojo_hit_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_dojo_hit_loop		2084144
+	843207996	sll_amb_day_loop	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_amb_day_loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Amb\sll_amb_day_loop		4320144
+	862520085	sll_sfx_footstep_07	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_sfx_footstep_07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Footstep\sll_sfx_footstep_07		75488
+	930485525	sll_sfx_footstep_08	Y:\Desktop\Aisaguri Level Design\Assets\StreamingAssets\Audio\Aisaguri Level Design_WwiseProject\.cache\Mac\SFX\sll_sfx_footstep_08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Village\Footstep\sll_sfx_footstep_08		69788
+
